@@ -1,6 +1,7 @@
 [
    {
       "name": "Afghanistan",
+      "arName": "أفغانستان",
       "isoCode": "AF",
       "flag": "🇦🇫",
       "phonecode": "93",
@@ -19,6 +20,7 @@
    },
    {
       "name": "Aland Islands",
+      "arName": "جزر آلاند",
       "isoCode": "AX",
       "flag": "🇦🇽",
       "phonecode": "+358-18",
@@ -37,6 +39,7 @@
    },
    {
       "name": "Albania",
+      "arName": "ألبانيا",
       "isoCode": "AL",
       "flag": "🇦🇱",
       "phonecode": "355",
@@ -55,6 +58,7 @@
    },
    {
       "name": "Algeria",
+      "arName": "الجزائر",
       "isoCode": "DZ",
       "flag": "🇩🇿",
       "phonecode": "213",
@@ -73,6 +77,7 @@
    },
    {
       "name": "American Samoa",
+      "arName": "ساموا الأمريكية",
       "isoCode": "AS",
       "flag": "🇦🇸",
       "phonecode": "+1-684",
@@ -91,6 +96,7 @@
    },
    {
       "name": "Andorra",
+      "arName": "أندورا",
       "isoCode": "AD",
       "flag": "🇦🇩",
       "phonecode": "376",
@@ -109,6 +115,7 @@
    },
    {
       "name": "Angola",
+      "arName": "أنغولا",
       "isoCode": "AO",
       "flag": "🇦🇴",
       "phonecode": "244",
@@ -127,6 +134,7 @@
    },
    {
       "name": "Anguilla",
+      "arName": "أنغيلا",
       "isoCode": "AI",
       "flag": "🇦🇮",
       "phonecode": "+1-264",
@@ -145,6 +153,7 @@
    },
    {
       "name": "Antarctica",
+      "arName": "أنتاركتيكا",
       "isoCode": "AQ",
       "flag": "🇦🇶",
       "phonecode": "672",
@@ -226,6 +235,7 @@
    },
    {
       "name": "Antigua And Barbuda",
+      "arName": "أنتيغوا وبربودا",
       "isoCode": "AG",
       "flag": "🇦🇬",
       "phonecode": "+1-268",
@@ -244,6 +254,7 @@
    },
    {
       "name": "Argentina",
+      "arName": "الأرجنتين",
       "isoCode": "AR",
       "flag": "🇦🇷",
       "phonecode": "54",
@@ -339,6 +350,7 @@
    },
    {
       "name": "Armenia",
+      "arName": "أرمينيا",
       "isoCode": "AM",
       "flag": "🇦🇲",
       "phonecode": "374",
@@ -357,6 +369,7 @@
    },
    {
       "name": "Aruba",
+      "arName": "أروبا",
       "isoCode": "AW",
       "flag": "🇦🇼",
       "phonecode": "297",
@@ -375,6 +388,7 @@
    },
    {
       "name": "Australia",
+      "arName": "أستراليا",
       "isoCode": "AU",
       "flag": "🇦🇺",
       "phonecode": "61",
@@ -477,6 +491,7 @@
    },
    {
       "name": "Austria",
+      "arName": "النمسا",
       "isoCode": "AT",
       "flag": "🇦🇹",
       "phonecode": "43",
@@ -495,6 +510,7 @@
    },
    {
       "name": "Azerbaijan",
+      "arName": "أذربيجان",
       "isoCode": "AZ",
       "flag": "🇦🇿",
       "phonecode": "994",
@@ -513,6 +529,7 @@
    },
    {
       "name": "The Bahamas",
+      "arName": "جزر البهاما",
       "isoCode": "BS",
       "flag": "🇧🇸",
       "phonecode": "+1-242",
@@ -531,6 +548,7 @@
    },
    {
       "name": "Bahrain",
+      "arName": "البحرين",
       "isoCode": "BH",
       "flag": "🇧🇭",
       "phonecode": "973",
@@ -549,6 +567,7 @@
    },
    {
       "name": "Bangladesh",
+      "arName": "بنغلاديش",
       "isoCode": "BD",
       "flag": "🇧🇩",
       "phonecode": "880",
@@ -567,6 +586,7 @@
    },
    {
       "name": "Barbados",
+      "arName": "بربادوس",
       "isoCode": "BB",
       "flag": "🇧🇧",
       "phonecode": "+1-246",
@@ -585,6 +605,7 @@
    },
    {
       "name": "Belarus",
+      "arName": "بيلاروسيا",
       "isoCode": "BY",
       "flag": "🇧🇾",
       "phonecode": "375",
@@ -603,6 +624,7 @@
    },
    {
       "name": "Belgium",
+      "arName": "بلجيكا",
       "isoCode": "BE",
       "flag": "🇧🇪",
       "phonecode": "32",
@@ -621,6 +643,7 @@
    },
    {
       "name": "Belize",
+      "arName": "بليز",
       "isoCode": "BZ",
       "flag": "🇧🇿",
       "phonecode": "501",
@@ -639,6 +662,7 @@
    },
    {
       "name": "Benin",
+      "arName": "بنين",
       "isoCode": "BJ",
       "flag": "🇧🇯",
       "phonecode": "229",
@@ -657,6 +681,7 @@
    },
    {
       "name": "Bermuda",
+      "arName": "برمودا",
       "isoCode": "BM",
       "flag": "🇧🇲",
       "phonecode": "+1-441",
@@ -675,6 +700,7 @@
    },
    {
       "name": "Bhutan",
+      "arName": "بوتان",
       "isoCode": "BT",
       "flag": "🇧🇹",
       "phonecode": "975",
@@ -693,6 +719,7 @@
    },
    {
       "name": "Bolivia",
+      "arName": "بوليفيا",
       "isoCode": "BO",
       "flag": "🇧🇴",
       "phonecode": "591",
@@ -711,6 +738,7 @@
    },
    {
       "name": "Bosnia and Herzegovina",
+      "arName": "البوسنة والهرسك",
       "isoCode": "BA",
       "flag": "🇧🇦",
       "phonecode": "387",
@@ -729,6 +757,7 @@
    },
    {
       "name": "Botswana",
+      "arName": "بوتسوانا",
       "isoCode": "BW",
       "flag": "🇧🇼",
       "phonecode": "267",
@@ -747,6 +776,7 @@
    },
    {
       "name": "Bouvet Island",
+      "arName": "جزيرة بوفيت",
       "isoCode": "BV",
       "flag": "🇧🇻",
       "phonecode": "0055",
@@ -765,6 +795,7 @@
    },
    {
       "name": "Brazil",
+      "arName": "البرازيل",
       "isoCode": "BR",
       "flag": "🇧🇷",
       "phonecode": "55",
@@ -888,6 +919,7 @@
    },
    {
       "name": "British Indian Ocean Territory",
+      "arName": "إقليم المحيط البريطاني الهندي",
       "isoCode": "IO",
       "flag": "🇮🇴",
       "phonecode": "246",
@@ -906,6 +938,7 @@
    },
    {
       "name": "Brunei",
+      "arName": "بروناي",
       "isoCode": "BN",
       "flag": "🇧🇳",
       "phonecode": "673",
@@ -924,6 +957,7 @@
    },
    {
       "name": "Bulgaria",
+      "arName": "بلغاريا",
       "isoCode": "BG",
       "flag": "🇧🇬",
       "phonecode": "359",
@@ -942,6 +976,7 @@
    },
    {
       "name": "Burkina Faso",
+      "arName": "بوركينا فاسو",
       "isoCode": "BF",
       "flag": "🇧🇫",
       "phonecode": "226",
@@ -960,6 +995,7 @@
    },
    {
       "name": "Burundi",
+      "arName": "بوروندي",
       "isoCode": "BI",
       "flag": "🇧🇮",
       "phonecode": "257",
@@ -978,6 +1014,7 @@
    },
    {
       "name": "Cambodia",
+      "arName": "كمبوديا",
       "isoCode": "KH",
       "flag": "🇰🇭",
       "phonecode": "855",
@@ -996,6 +1033,7 @@
    },
    {
       "name": "Cameroon",
+      "arName": "الكاميرون",
       "isoCode": "CM",
       "flag": "🇨🇲",
       "phonecode": "237",
@@ -1014,6 +1052,7 @@
    },
    {
       "name": "Canada",
+      "arName": "كندا",
       "isoCode": "CA",
       "flag": "🇨🇦",
       "phonecode": "1",
@@ -1221,6 +1260,7 @@
    },
    {
       "name": "Cape Verde",
+      "arName": "كيب الأخضر",
       "isoCode": "CV",
       "flag": "🇨🇻",
       "phonecode": "238",
@@ -1239,6 +1279,7 @@
    },
    {
       "name": "Cayman Islands",
+      "arName": "جزر كايمان",
       "isoCode": "KY",
       "flag": "🇰🇾",
       "phonecode": "+1-345",
@@ -1257,6 +1298,7 @@
    },
    {
       "name": "Central African Republic",
+      "arName": "جمهورية افريقيا الوسطى",
       "isoCode": "CF",
       "flag": "🇨🇫",
       "phonecode": "236",
@@ -1275,6 +1317,7 @@
    },
    {
       "name": "Chad",
+      "arName": "تشاد",
       "isoCode": "TD",
       "flag": "🇹🇩",
       "phonecode": "235",
@@ -1293,6 +1336,7 @@
    },
    {
       "name": "Chile",
+      "arName": "تشيلي",
       "isoCode": "CL",
       "flag": "🇨🇱",
       "phonecode": "56",
@@ -1325,6 +1369,7 @@
    },
    {
       "name": "China",
+      "arName": "الصين",
       "isoCode": "CN",
       "flag": "🇨🇳",
       "phonecode": "86",
@@ -1350,6 +1395,7 @@
    },
    {
       "name": "Christmas Island",
+      "arName": "جزيرة عيد الميلاد",
       "isoCode": "CX",
       "flag": "🇨🇽",
       "phonecode": "61",
@@ -1368,6 +1414,7 @@
    },
    {
       "name": "Cocos (Keeling) Islands",
+      "arName": "جزر كوكوس (كيلينج)",
       "isoCode": "CC",
       "flag": "🇨🇨",
       "phonecode": "61",
@@ -1386,6 +1433,7 @@
    },
    {
       "name": "Colombia",
+      "arName": "كولومبيا",
       "isoCode": "CO",
       "flag": "🇨🇴",
       "phonecode": "57",
@@ -1404,6 +1452,7 @@
    },
    {
       "name": "Comoros",
+      "arName": "كموروس",
       "isoCode": "KM",
       "flag": "🇰🇲",
       "phonecode": "269",
@@ -1422,6 +1471,7 @@
    },
    {
       "name": "Congo",
+      "arName": "الكونغو",
       "isoCode": "CG",
       "flag": "🇨🇬",
       "phonecode": "242",
@@ -1440,6 +1490,7 @@
    },
    {
       "name": "Democratic Republic of the Congo",
+      "arName": "جمهورية الكونغو الديموقراطية",
       "isoCode": "CD",
       "flag": "🇨🇩",
       "phonecode": "243",
@@ -1465,6 +1516,7 @@
    },
    {
       "name": "Cook Islands",
+      "arName": "جزر كوك",
       "isoCode": "CK",
       "flag": "🇨🇰",
       "phonecode": "682",
@@ -1483,6 +1535,7 @@
    },
    {
       "name": "Costa Rica",
+      "arName": "كوستا ريكا",
       "isoCode": "CR",
       "flag": "🇨🇷",
       "phonecode": "506",
@@ -1501,6 +1554,7 @@
    },
    {
       "name": "Cote D'Ivoire (Ivory Coast)",
+      "arName": "كوت ديفوار (ساحل العاج)",
       "isoCode": "CI",
       "flag": "🇨🇮",
       "phonecode": "225",
@@ -1519,6 +1573,7 @@
    },
    {
       "name": "Croatia",
+      "arName": "كرواتيا",
       "isoCode": "HR",
       "flag": "🇭🇷",
       "phonecode": "385",
@@ -1537,6 +1592,7 @@
    },
    {
       "name": "Cuba",
+      "arName": "كوبا",
       "isoCode": "CU",
       "flag": "🇨🇺",
       "phonecode": "53",
@@ -1555,6 +1611,7 @@
    },
    {
       "name": "Cyprus",
+      "arName": "قبرص",
       "isoCode": "CY",
       "flag": "🇨🇾",
       "phonecode": "357",
@@ -1580,6 +1637,7 @@
    },
    {
       "name": "Czech Republic",
+      "arName": "الجمهورية التشيكية",
       "isoCode": "CZ",
       "flag": "🇨🇿",
       "phonecode": "420",
@@ -1598,6 +1656,7 @@
    },
    {
       "name": "Denmark",
+      "arName": "الدنمارك",
       "isoCode": "DK",
       "flag": "🇩🇰",
       "phonecode": "45",
@@ -1616,6 +1675,7 @@
    },
    {
       "name": "Djibouti",
+      "arName": "جيبوتي",
       "isoCode": "DJ",
       "flag": "🇩🇯",
       "phonecode": "253",
@@ -1634,6 +1694,7 @@
    },
    {
       "name": "Dominica",
+      "arName": "دومينيكا",
       "isoCode": "DM",
       "flag": "🇩🇲",
       "phonecode": "+1-767",
@@ -1652,6 +1713,7 @@
    },
    {
       "name": "Dominican Republic",
+      "arName": "جمهورية الدومينيكان",
       "isoCode": "DO",
       "flag": "🇩🇴",
       "phonecode": "+1-809 and 1-829",
@@ -1670,6 +1732,7 @@
    },
    {
       "name": "East Timor",
+      "arName": "تيمور الشرقية",
       "isoCode": "TL",
       "flag": "🇹🇱",
       "phonecode": "670",
@@ -1688,6 +1751,7 @@
    },
    {
       "name": "Ecuador",
+      "arName": "الإكوادور",
       "isoCode": "EC",
       "flag": "🇪🇨",
       "phonecode": "593",
@@ -1713,6 +1777,7 @@
    },
    {
       "name": "Egypt",
+      "arName": "مصر",
       "isoCode": "EG",
       "flag": "🇪🇬",
       "phonecode": "20",
@@ -1731,6 +1796,7 @@
    },
    {
       "name": "El Salvador",
+      "arName": "المنقذ",
       "isoCode": "SV",
       "flag": "🇸🇻",
       "phonecode": "503",
@@ -1749,6 +1815,7 @@
    },
    {
       "name": "Equatorial Guinea",
+      "arName": "غينيا الإستوائية",
       "isoCode": "GQ",
       "flag": "🇬🇶",
       "phonecode": "240",
@@ -1767,6 +1834,7 @@
    },
    {
       "name": "Eritrea",
+      "arName": "إريتريا",
       "isoCode": "ER",
       "flag": "🇪🇷",
       "phonecode": "291",
@@ -1785,6 +1853,7 @@
    },
    {
       "name": "Estonia",
+      "arName": "إستونيا",
       "isoCode": "EE",
       "flag": "🇪🇪",
       "phonecode": "372",
@@ -1803,6 +1872,7 @@
    },
    {
       "name": "Ethiopia",
+      "arName": "أثيوبيا",
       "isoCode": "ET",
       "flag": "🇪🇹",
       "phonecode": "251",
@@ -1821,6 +1891,7 @@
    },
    {
       "name": "Falkland Islands",
+      "arName": "جزر فوكلاند",
       "isoCode": "FK",
       "flag": "🇫🇰",
       "phonecode": "500",
@@ -1839,6 +1910,7 @@
    },
    {
       "name": "Faroe Islands",
+      "arName": "جزر فاروس",
       "isoCode": "FO",
       "flag": "🇫🇴",
       "phonecode": "298",
@@ -1857,6 +1929,7 @@
    },
    {
       "name": "Fiji Islands",
+      "arName": "جزر فيجي",
       "isoCode": "FJ",
       "flag": "🇫🇯",
       "phonecode": "679",
@@ -1875,6 +1948,7 @@
    },
    {
       "name": "Finland",
+      "arName": "فنلندا",
       "isoCode": "FI",
       "flag": "🇫🇮",
       "phonecode": "358",
@@ -1893,6 +1967,7 @@
    },
    {
       "name": "France",
+      "arName": "فرنسا",
       "isoCode": "FR",
       "flag": "🇫🇷",
       "phonecode": "33",
@@ -1911,6 +1986,7 @@
    },
    {
       "name": "French Guiana",
+      "arName": "غيانا الفرنسية",
       "isoCode": "GF",
       "flag": "🇬🇫",
       "phonecode": "594",
@@ -1929,6 +2005,7 @@
    },
    {
       "name": "French Polynesia",
+      "arName": "بولينيزيا الفرنسية",
       "isoCode": "PF",
       "flag": "🇵🇫",
       "phonecode": "689",
@@ -1961,6 +2038,7 @@
    },
    {
       "name": "French Southern Territories",
+      "arName": "المناطق الجنوبية لفرنسا",
       "isoCode": "TF",
       "flag": "🇹🇫",
       "phonecode": "262",
@@ -1979,6 +2057,7 @@
    },
    {
       "name": "Gabon",
+      "arName": "الجابون",
       "isoCode": "GA",
       "flag": "🇬🇦",
       "phonecode": "241",
@@ -1997,6 +2076,7 @@
    },
    {
       "name": "Gambia The",
+      "arName": "غامبيا",
       "isoCode": "GM",
       "flag": "🇬🇲",
       "phonecode": "220",
@@ -2015,6 +2095,7 @@
    },
    {
       "name": "Georgia",
+      "arName": "جورجيا",
       "isoCode": "GE",
       "flag": "🇬🇪",
       "phonecode": "995",
@@ -2033,6 +2114,7 @@
    },
    {
       "name": "Germany",
+      "arName": "ألمانيا",
       "isoCode": "DE",
       "flag": "🇩🇪",
       "phonecode": "49",
@@ -2058,6 +2140,7 @@
    },
    {
       "name": "Ghana",
+      "arName": "غانا",
       "isoCode": "GH",
       "flag": "🇬🇭",
       "phonecode": "233",
@@ -2076,6 +2159,7 @@
    },
    {
       "name": "Gibraltar",
+      "arName": "جبل طارق",
       "isoCode": "GI",
       "flag": "🇬🇮",
       "phonecode": "350",
@@ -2094,6 +2178,7 @@
    },
    {
       "name": "Greece",
+      "arName": "اليونان",
       "isoCode": "GR",
       "flag": "🇬🇷",
       "phonecode": "30",
@@ -2112,6 +2197,7 @@
    },
    {
       "name": "Greenland",
+      "arName": "الأرض الخضراء",
       "isoCode": "GL",
       "flag": "🇬🇱",
       "phonecode": "299",
@@ -2151,6 +2237,7 @@
    },
    {
       "name": "Grenada",
+      "arName": "غرينادا",
       "isoCode": "GD",
       "flag": "🇬🇩",
       "phonecode": "+1-473",
@@ -2169,6 +2256,7 @@
    },
    {
       "name": "Guadeloupe",
+      "arName": "غواديلوب",
       "isoCode": "GP",
       "flag": "🇬🇵",
       "phonecode": "590",
@@ -2187,6 +2275,7 @@
    },
    {
       "name": "Guam",
+      "arName": "غوام",
       "isoCode": "GU",
       "flag": "🇬🇺",
       "phonecode": "+1-671",
@@ -2205,6 +2294,7 @@
    },
    {
       "name": "Guatemala",
+      "arName": "غواتيمالا",
       "isoCode": "GT",
       "flag": "🇬🇹",
       "phonecode": "502",
@@ -2223,6 +2313,7 @@
    },
    {
       "name": "Guernsey and Alderney",
+      "arName": "غيرنسي وألدرني",
       "isoCode": "GG",
       "flag": "🇬🇬",
       "phonecode": "+44-1481",
@@ -2241,6 +2332,7 @@
    },
    {
       "name": "Guinea",
+      "arName": "غينيا",
       "isoCode": "GN",
       "flag": "🇬🇳",
       "phonecode": "224",
@@ -2259,6 +2351,7 @@
    },
    {
       "name": "Guinea-Bissau",
+      "arName": "غينيا بيساو",
       "isoCode": "GW",
       "flag": "🇬🇼",
       "phonecode": "245",
@@ -2277,6 +2370,7 @@
    },
    {
       "name": "Guyana",
+      "arName": "غيانا",
       "isoCode": "GY",
       "flag": "🇬🇾",
       "phonecode": "592",
@@ -2295,6 +2389,7 @@
    },
    {
       "name": "Haiti",
+      "arName": "هايتي",
       "isoCode": "HT",
       "flag": "🇭🇹",
       "phonecode": "509",
@@ -2313,6 +2408,7 @@
    },
    {
       "name": "Heard Island and McDonald Islands",
+      "arName": "قلب الجزيرة وجزر ماكدونالز",
       "isoCode": "HM",
       "flag": "🇭🇲",
       "phonecode": "672",
@@ -2331,6 +2427,7 @@
    },
    {
       "name": "Honduras",
+      "arName": "هندوراس",
       "isoCode": "HN",
       "flag": "🇭🇳",
       "phonecode": "504",
@@ -2349,6 +2446,7 @@
    },
    {
       "name": "Hong Kong S.A.R.",
+      "arName": "هونغ كونغ س.",
       "isoCode": "HK",
       "flag": "🇭🇰",
       "phonecode": "852",
@@ -2367,6 +2465,7 @@
    },
    {
       "name": "Hungary",
+      "arName": "هنغاريا",
       "isoCode": "HU",
       "flag": "🇭🇺",
       "phonecode": "36",
@@ -2385,6 +2484,7 @@
    },
    {
       "name": "Iceland",
+      "arName": "أيسلندا",
       "isoCode": "IS",
       "flag": "🇮🇸",
       "phonecode": "354",
@@ -2403,6 +2503,7 @@
    },
    {
       "name": "India",
+      "arName": "الهند",
       "isoCode": "IN",
       "flag": "🇮🇳",
       "phonecode": "91",
@@ -2421,6 +2522,7 @@
    },
    {
       "name": "Indonesia",
+      "arName": "إندونيسيا",
       "isoCode": "ID",
       "flag": "🇮🇩",
       "phonecode": "62",
@@ -2460,6 +2562,7 @@
    },
    {
       "name": "Iran",
+      "arName": "إيران",
       "isoCode": "IR",
       "flag": "🇮🇷",
       "phonecode": "98",
@@ -2478,6 +2581,7 @@
    },
    {
       "name": "Iraq",
+      "arName": "العراق",
       "isoCode": "IQ",
       "flag": "🇮🇶",
       "phonecode": "964",
@@ -2496,6 +2600,7 @@
    },
    {
       "name": "Ireland",
+      "arName": "أيرلندا",
       "isoCode": "IE",
       "flag": "🇮🇪",
       "phonecode": "353",
@@ -2514,6 +2619,7 @@
    },
    {
       "name": "Israel",
+      "arName": "إسرائيل",
       "isoCode": "IL",
       "flag": "🇮🇱",
       "phonecode": "972",
@@ -2532,6 +2638,7 @@
    },
    {
       "name": "Italy",
+      "arName": "إيطاليا",
       "isoCode": "IT",
       "flag": "🇮🇹",
       "phonecode": "39",
@@ -2550,6 +2657,7 @@
    },
    {
       "name": "Jamaica",
+      "arName": "جامايكا",
       "isoCode": "JM",
       "flag": "🇯🇲",
       "phonecode": "+1-876",
@@ -2568,6 +2676,7 @@
    },
    {
       "name": "Japan",
+      "arName": "اليابان",
       "isoCode": "JP",
       "flag": "🇯🇵",
       "phonecode": "81",
@@ -2586,6 +2695,7 @@
    },
    {
       "name": "Jersey",
+      "arName": "جيرسي",
       "isoCode": "JE",
       "flag": "🇯🇪",
       "phonecode": "+44-1534",
@@ -2604,6 +2714,7 @@
    },
    {
       "name": "Jordan",
+      "arName": "الأردن",
       "isoCode": "JO",
       "flag": "🇯🇴",
       "phonecode": "962",
@@ -2622,6 +2733,7 @@
    },
    {
       "name": "Kazakhstan",
+      "arName": "كازاخستان",
       "isoCode": "KZ",
       "flag": "🇰🇿",
       "phonecode": "7",
@@ -2682,6 +2794,7 @@
    },
    {
       "name": "Kenya",
+      "arName": "كينيا",
       "isoCode": "KE",
       "flag": "🇰🇪",
       "phonecode": "254",
@@ -2700,6 +2813,7 @@
    },
    {
       "name": "Kiribati",
+      "arName": "كيريباتي",
       "isoCode": "KI",
       "flag": "🇰🇮",
       "phonecode": "686",
@@ -2732,6 +2846,7 @@
    },
    {
       "name": "North Korea",
+      "arName": "كوريا الشمالية",
       "isoCode": "KP",
       "flag": "🇰🇵",
       "phonecode": "850",
@@ -2750,6 +2865,7 @@
    },
    {
       "name": "South Korea",
+      "arName": "كوريا الجنوبية",
       "isoCode": "KR",
       "flag": "🇰🇷",
       "phonecode": "82",
@@ -2768,6 +2884,7 @@
    },
    {
       "name": "Kuwait",
+      "arName": "الكويت",
       "isoCode": "KW",
       "flag": "🇰🇼",
       "phonecode": "965",
@@ -2786,6 +2903,7 @@
    },
    {
       "name": "Kyrgyzstan",
+      "arName": "قيرغيزستان",
       "isoCode": "KG",
       "flag": "🇰🇬",
       "phonecode": "996",
@@ -2804,6 +2922,7 @@
    },
    {
       "name": "Laos",
+      "arName": "لاوس",
       "isoCode": "LA",
       "flag": "🇱🇦",
       "phonecode": "856",
@@ -2822,6 +2941,7 @@
    },
    {
       "name": "Latvia",
+      "arName": "لاتفيا",
       "isoCode": "LV",
       "flag": "🇱🇻",
       "phonecode": "371",
@@ -2840,6 +2960,7 @@
    },
    {
       "name": "Lebanon",
+      "arName": "لبنان",
       "isoCode": "LB",
       "flag": "🇱🇧",
       "phonecode": "961",
@@ -2858,6 +2979,7 @@
    },
    {
       "name": "Lesotho",
+      "arName": "ليسوتو",
       "isoCode": "LS",
       "flag": "🇱🇸",
       "phonecode": "266",
@@ -2876,6 +2998,7 @@
    },
    {
       "name": "Liberia",
+      "arName": "ليبيريا",
       "isoCode": "LR",
       "flag": "🇱🇷",
       "phonecode": "231",
@@ -2894,6 +3017,7 @@
    },
    {
       "name": "Libya",
+      "arName": "ليبيا",
       "isoCode": "LY",
       "flag": "🇱🇾",
       "phonecode": "218",
@@ -2912,6 +3036,7 @@
    },
    {
       "name": "Liechtenstein",
+      "arName": "ليختنشتاين",
       "isoCode": "LI",
       "flag": "🇱🇮",
       "phonecode": "423",
@@ -2930,6 +3055,7 @@
    },
    {
       "name": "Lithuania",
+      "arName": "ليتوانيا",
       "isoCode": "LT",
       "flag": "🇱🇹",
       "phonecode": "370",
@@ -2948,6 +3074,7 @@
    },
    {
       "name": "Luxembourg",
+      "arName": "لوكسمبورغ",
       "isoCode": "LU",
       "flag": "🇱🇺",
       "phonecode": "352",
@@ -2966,6 +3093,7 @@
    },
    {
       "name": "Macau S.A.R.",
+      "arName": "ماكاو س.",
       "isoCode": "MO",
       "flag": "🇲🇴",
       "phonecode": "853",
@@ -2984,6 +3112,7 @@
    },
    {
       "name": "Macedonia",
+      "arName": "مقدونيا",
       "isoCode": "MK",
       "flag": "🇲🇰",
       "phonecode": "389",
@@ -3002,6 +3131,7 @@
    },
    {
       "name": "Madagascar",
+      "arName": "مدغشقر",
       "isoCode": "MG",
       "flag": "🇲🇬",
       "phonecode": "261",
@@ -3020,6 +3150,7 @@
    },
    {
       "name": "Malawi",
+      "arName": "ملاوي",
       "isoCode": "MW",
       "flag": "🇲🇼",
       "phonecode": "265",
@@ -3038,6 +3169,7 @@
    },
    {
       "name": "Malaysia",
+      "arName": "ماليزيا",
       "isoCode": "MY",
       "flag": "🇲🇾",
       "phonecode": "60",
@@ -3063,6 +3195,7 @@
    },
    {
       "name": "Maldives",
+      "arName": "جزر المالديف",
       "isoCode": "MV",
       "flag": "🇲🇻",
       "phonecode": "960",
@@ -3081,6 +3214,7 @@
    },
    {
       "name": "Mali",
+      "arName": "مالي",
       "isoCode": "ML",
       "flag": "🇲🇱",
       "phonecode": "223",
@@ -3099,6 +3233,7 @@
    },
    {
       "name": "Malta",
+      "arName": "مالطا",
       "isoCode": "MT",
       "flag": "🇲🇹",
       "phonecode": "356",
@@ -3117,6 +3252,7 @@
    },
    {
       "name": "Man (Isle of)",
+      "arName": "رجل (جزيرة)",
       "isoCode": "IM",
       "flag": "🇮🇲",
       "phonecode": "+44-1624",
@@ -3135,6 +3271,7 @@
    },
    {
       "name": "Marshall Islands",
+      "arName": "جزر مارشال",
       "isoCode": "MH",
       "flag": "🇲🇭",
       "phonecode": "692",
@@ -3160,6 +3297,7 @@
    },
    {
       "name": "Martinique",
+      "arName": "مارتينيك",
       "isoCode": "MQ",
       "flag": "🇲🇶",
       "phonecode": "596",
@@ -3178,6 +3316,7 @@
    },
    {
       "name": "Mauritania",
+      "arName": "موريتانيا",
       "isoCode": "MR",
       "flag": "🇲🇷",
       "phonecode": "222",
@@ -3196,6 +3335,7 @@
    },
    {
       "name": "Mauritius",
+      "arName": "موريشيوس",
       "isoCode": "MU",
       "flag": "🇲🇺",
       "phonecode": "230",
@@ -3214,6 +3354,7 @@
    },
    {
       "name": "Mayotte",
+      "arName": "مايوت",
       "isoCode": "YT",
       "flag": "🇾🇹",
       "phonecode": "262",
@@ -3232,6 +3373,7 @@
    },
    {
       "name": "Mexico",
+      "arName": "المكسيك",
       "isoCode": "MX",
       "flag": "🇲🇽",
       "phonecode": "52",
@@ -3320,6 +3462,7 @@
    },
    {
       "name": "Micronesia",
+      "arName": "ميكرونيسيا",
       "isoCode": "FM",
       "flag": "🇫🇲",
       "phonecode": "691",
@@ -3352,6 +3495,7 @@
    },
    {
       "name": "Moldova",
+      "arName": "مولدوفا",
       "isoCode": "MD",
       "flag": "🇲🇩",
       "phonecode": "373",
@@ -3370,6 +3514,7 @@
    },
    {
       "name": "Monaco",
+      "arName": "موناكو",
       "isoCode": "MC",
       "flag": "🇲🇨",
       "phonecode": "377",
@@ -3388,6 +3533,7 @@
    },
    {
       "name": "Mongolia",
+      "arName": "منغوليا",
       "isoCode": "MN",
       "flag": "🇲🇳",
       "phonecode": "976",
@@ -3420,6 +3566,7 @@
    },
    {
       "name": "Montenegro",
+      "arName": "الجبل الأسود",
       "isoCode": "ME",
       "flag": "🇲🇪",
       "phonecode": "382",
@@ -3438,6 +3585,7 @@
    },
    {
       "name": "Montserrat",
+      "arName": "مونتسيرات",
       "isoCode": "MS",
       "flag": "🇲🇸",
       "phonecode": "+1-664",
@@ -3456,6 +3604,7 @@
    },
    {
       "name": "Morocco",
+      "arName": "المغرب",
       "isoCode": "MA",
       "flag": "🇲🇦",
       "phonecode": "212",
@@ -3474,6 +3623,7 @@
    },
    {
       "name": "Mozambique",
+      "arName": "موزمبيق",
       "isoCode": "MZ",
       "flag": "🇲🇿",
       "phonecode": "258",
@@ -3492,6 +3642,7 @@
    },
    {
       "name": "Myanmar",
+      "arName": "ميانمار",
       "isoCode": "MM",
       "flag": "🇲🇲",
       "phonecode": "95",
@@ -3510,6 +3661,7 @@
    },
    {
       "name": "Namibia",
+      "arName": "ناميبيا",
       "isoCode": "NA",
       "flag": "🇳🇦",
       "phonecode": "264",
@@ -3528,6 +3680,7 @@
    },
    {
       "name": "Nauru",
+      "arName": "ناورو",
       "isoCode": "NR",
       "flag": "🇳🇷",
       "phonecode": "674",
@@ -3546,6 +3699,7 @@
    },
    {
       "name": "Nepal",
+      "arName": "نيبال",
       "isoCode": "NP",
       "flag": "🇳🇵",
       "phonecode": "977",
@@ -3564,6 +3718,7 @@
    },
    {
       "name": "Bonaire, Sint Eustatius and Saba",
+      "arName": "Bonaire ، Sin Eustatius و Saba",
       "isoCode": "BQ",
       "flag": "🇧🇶",
       "phonecode": "599",
@@ -3582,6 +3737,7 @@
    },
    {
       "name": "Netherlands",
+      "arName": "هولندا",
       "isoCode": "NL",
       "flag": "🇳🇱",
       "phonecode": "31",
@@ -3600,6 +3756,7 @@
    },
    {
       "name": "New Caledonia",
+      "arName": "كاليدونيا الجديدة",
       "isoCode": "NC",
       "flag": "🇳🇨",
       "phonecode": "687",
@@ -3618,6 +3775,7 @@
    },
    {
       "name": "New Zealand",
+      "arName": "نيوزيلندا",
       "isoCode": "NZ",
       "flag": "🇳🇿",
       "phonecode": "64",
@@ -3643,6 +3801,7 @@
    },
    {
       "name": "Nicaragua",
+      "arName": "نيكاراغوا",
       "isoCode": "NI",
       "flag": "🇳🇮",
       "phonecode": "505",
@@ -3661,6 +3820,7 @@
    },
    {
       "name": "Niger",
+      "arName": "النيجر",
       "isoCode": "NE",
       "flag": "🇳🇪",
       "phonecode": "227",
@@ -3679,6 +3839,7 @@
    },
    {
       "name": "Nigeria",
+      "arName": "نيجيريا",
       "isoCode": "NG",
       "flag": "🇳🇬",
       "phonecode": "234",
@@ -3697,6 +3858,7 @@
    },
    {
       "name": "Niue",
+      "arName": "نيو",
       "isoCode": "NU",
       "flag": "🇳🇺",
       "phonecode": "683",
@@ -3715,6 +3877,7 @@
    },
    {
       "name": "Norfolk Island",
+      "arName": "جزيرة نورفولك",
       "isoCode": "NF",
       "flag": "🇳🇫",
       "phonecode": "672",
@@ -3733,6 +3896,7 @@
    },
    {
       "name": "Northern Mariana Islands",
+      "arName": "جزر مريانا الشمالية",
       "isoCode": "MP",
       "flag": "🇲🇵",
       "phonecode": "+1-670",
@@ -3751,6 +3915,7 @@
    },
    {
       "name": "Norway",
+      "arName": "النرويج",
       "isoCode": "NO",
       "flag": "🇳🇴",
       "phonecode": "47",
@@ -3769,6 +3934,7 @@
    },
    {
       "name": "Oman",
+      "arName": "عمان",
       "isoCode": "OM",
       "flag": "🇴🇲",
       "phonecode": "968",
@@ -3787,6 +3953,7 @@
    },
    {
       "name": "Pakistan",
+      "arName": "باكستان",
       "isoCode": "PK",
       "flag": "🇵🇰",
       "phonecode": "92",
@@ -3805,6 +3972,7 @@
    },
    {
       "name": "Palau",
+      "arName": "بالاو",
       "isoCode": "PW",
       "flag": "🇵🇼",
       "phonecode": "680",
@@ -3823,6 +3991,7 @@
    },
    {
       "name": "Palestinian Territory Occupied",
+      "arName": "الأراضي الفلسطينية المحتلة",
       "isoCode": "PS",
       "flag": "🇵🇸",
       "phonecode": "970",
@@ -3848,6 +4017,7 @@
    },
    {
       "name": "Panama",
+      "arName": "بنما",
       "isoCode": "PA",
       "flag": "🇵🇦",
       "phonecode": "507",
@@ -3866,6 +4036,7 @@
    },
    {
       "name": "Papua new Guinea",
+      "arName": "بابوا غينيا الجديدة",
       "isoCode": "PG",
       "flag": "🇵🇬",
       "phonecode": "675",
@@ -3891,6 +4062,7 @@
    },
    {
       "name": "Paraguay",
+      "arName": "باراجواي",
       "isoCode": "PY",
       "flag": "🇵🇾",
       "phonecode": "595",
@@ -3909,6 +4081,7 @@
    },
    {
       "name": "Peru",
+      "arName": "بيرو",
       "isoCode": "PE",
       "flag": "🇵🇪",
       "phonecode": "51",
@@ -3927,6 +4100,7 @@
    },
    {
       "name": "Philippines",
+      "arName": "الفيلبين",
       "isoCode": "PH",
       "flag": "🇵🇭",
       "phonecode": "63",
@@ -3945,6 +4119,7 @@
    },
    {
       "name": "Pitcairn Island",
+      "arName": "جزيرة بيتكيرن",
       "isoCode": "PN",
       "flag": "🇵🇳",
       "phonecode": "870",
@@ -3963,6 +4138,7 @@
    },
    {
       "name": "Poland",
+      "arName": "بولندا",
       "isoCode": "PL",
       "flag": "🇵🇱",
       "phonecode": "48",
@@ -3981,6 +4157,7 @@
    },
    {
       "name": "Portugal",
+      "arName": "البرتغال",
       "isoCode": "PT",
       "flag": "🇵🇹",
       "phonecode": "351",
@@ -4013,6 +4190,7 @@
    },
    {
       "name": "Puerto Rico",
+      "arName": "بورتوريكو",
       "isoCode": "PR",
       "flag": "🇵🇷",
       "phonecode": "+1-787 and 1-939",
@@ -4031,6 +4209,7 @@
    },
    {
       "name": "Qatar",
+      "arName": "قطر",
       "isoCode": "QA",
       "flag": "🇶🇦",
       "phonecode": "974",
@@ -4049,6 +4228,7 @@
    },
    {
       "name": "Reunion",
+      "arName": "جمع شمل",
       "isoCode": "RE",
       "flag": "🇷🇪",
       "phonecode": "262",
@@ -4067,6 +4247,7 @@
    },
    {
       "name": "Romania",
+      "arName": "رومانيا",
       "isoCode": "RO",
       "flag": "🇷🇴",
       "phonecode": "40",
@@ -4085,6 +4266,7 @@
    },
    {
       "name": "Russia",
+      "arName": "روسيا",
       "isoCode": "RU",
       "flag": "🇷🇺",
       "phonecode": "7",
@@ -4278,6 +4460,7 @@
    },
    {
       "name": "Rwanda",
+      "arName": "رواندا",
       "isoCode": "RW",
       "flag": "🇷🇼",
       "phonecode": "250",
@@ -4296,6 +4479,7 @@
    },
    {
       "name": "Saint Helena",
+      "arName": "القديس هيلينا",
       "isoCode": "SH",
       "flag": "🇸🇭",
       "phonecode": "290",
@@ -4314,6 +4498,7 @@
    },
    {
       "name": "Saint Kitts And Nevis",
+      "arName": "سانت كيتس ونيفيس",
       "isoCode": "KN",
       "flag": "🇰🇳",
       "phonecode": "+1-869",
@@ -4332,6 +4517,7 @@
    },
    {
       "name": "Saint Lucia",
+      "arName": "القديسة لوسيا",
       "isoCode": "LC",
       "flag": "🇱🇨",
       "phonecode": "+1-758",
@@ -4350,6 +4536,7 @@
    },
    {
       "name": "Saint Pierre and Miquelon",
+      "arName": "سانت بيير وميكلون",
       "isoCode": "PM",
       "flag": "🇵🇲",
       "phonecode": "508",
@@ -4368,6 +4555,7 @@
    },
    {
       "name": "Saint Vincent And The Grenadines",
+      "arName": "سانت فنسنت وجزر غرينادين",
       "isoCode": "VC",
       "flag": "🇻🇨",
       "phonecode": "+1-784",
@@ -4386,6 +4574,7 @@
    },
    {
       "name": "Saint-Barthelemy",
+      "arName": "سانت بارتيليمي",
       "isoCode": "BL",
       "flag": "🇧🇱",
       "phonecode": "590",
@@ -4404,6 +4593,7 @@
    },
    {
       "name": "Saint-Martin (French part)",
+      "arName": "سانت مارتن (الجزء الفرنسي)",
       "isoCode": "MF",
       "flag": "🇲🇫",
       "phonecode": "590",
@@ -4422,6 +4612,7 @@
    },
    {
       "name": "Samoa",
+      "arName": "ساموا",
       "isoCode": "WS",
       "flag": "🇼🇸",
       "phonecode": "685",
@@ -4440,6 +4631,7 @@
    },
    {
       "name": "San Marino",
+      "arName": "سان مارينو",
       "isoCode": "SM",
       "flag": "🇸🇲",
       "phonecode": "378",
@@ -4458,6 +4650,7 @@
    },
    {
       "name": "Sao Tome and Principe",
+      "arName": "ساو تومي وبينسبيب",
       "isoCode": "ST",
       "flag": "🇸🇹",
       "phonecode": "239",
@@ -4476,6 +4669,7 @@
    },
    {
       "name": "Saudi Arabia",
+      "arName": "السعودية",
       "isoCode": "SA",
       "flag": "🇸🇦",
       "phonecode": "966",
@@ -4494,6 +4688,7 @@
    },
    {
       "name": "Senegal",
+      "arName": "السنغال",
       "isoCode": "SN",
       "flag": "🇸🇳",
       "phonecode": "221",
@@ -4512,6 +4707,7 @@
    },
    {
       "name": "Serbia",
+      "arName": "صربيا",
       "isoCode": "RS",
       "flag": "🇷🇸",
       "phonecode": "381",
@@ -4530,6 +4726,7 @@
    },
    {
       "name": "Seychelles",
+      "arName": "سيشيل",
       "isoCode": "SC",
       "flag": "🇸🇨",
       "phonecode": "248",
@@ -4548,6 +4745,7 @@
    },
    {
       "name": "Sierra Leone",
+      "arName": "سيرا ليون",
       "isoCode": "SL",
       "flag": "🇸🇱",
       "phonecode": "232",
@@ -4566,6 +4764,7 @@
    },
    {
       "name": "Singapore",
+      "arName": "سنغافورة",
       "isoCode": "SG",
       "flag": "🇸🇬",
       "phonecode": "65",
@@ -4584,6 +4783,7 @@
    },
    {
       "name": "Slovakia",
+      "arName": "سلوفاكيا",
       "isoCode": "SK",
       "flag": "🇸🇰",
       "phonecode": "421",
@@ -4602,6 +4802,7 @@
    },
    {
       "name": "Slovenia",
+      "arName": "سلوفينيا",
       "isoCode": "SI",
       "flag": "🇸🇮",
       "phonecode": "386",
@@ -4620,6 +4821,7 @@
    },
    {
       "name": "Solomon Islands",
+      "arName": "جزر سليمان",
       "isoCode": "SB",
       "flag": "🇸🇧",
       "phonecode": "677",
@@ -4638,6 +4840,7 @@
    },
    {
       "name": "Somalia",
+      "arName": "الصومال",
       "isoCode": "SO",
       "flag": "🇸🇴",
       "phonecode": "252",
@@ -4656,6 +4859,7 @@
    },
    {
       "name": "South Africa",
+      "arName": "جنوب أفريقيا",
       "isoCode": "ZA",
       "flag": "🇿🇦",
       "phonecode": "27",
@@ -4674,6 +4878,7 @@
    },
    {
       "name": "South Georgia",
+      "arName": "جنوب جورجيا",
       "isoCode": "GS",
       "flag": "🇬🇸",
       "phonecode": "500",
@@ -4692,6 +4897,7 @@
    },
    {
       "name": "South Sudan",
+      "arName": "جنوب السودان",
       "isoCode": "SS",
       "flag": "🇸🇸",
       "phonecode": "211",
@@ -4710,6 +4916,7 @@
    },
    {
       "name": "Spain",
+      "arName": "إسبانيا",
       "isoCode": "ES",
       "flag": "🇪🇸",
       "phonecode": "34",
@@ -4742,6 +4949,7 @@
    },
    {
       "name": "Sri Lanka",
+      "arName": "سيريلانكا",
       "isoCode": "LK",
       "flag": "🇱🇰",
       "phonecode": "94",
@@ -4760,6 +4968,7 @@
    },
    {
       "name": "Sudan",
+      "arName": "السودان",
       "isoCode": "SD",
       "flag": "🇸🇩",
       "phonecode": "249",
@@ -4778,6 +4987,7 @@
    },
    {
       "name": "Suriname",
+      "arName": "سورينام",
       "isoCode": "SR",
       "flag": "🇸🇷",
       "phonecode": "597",
@@ -4796,6 +5006,7 @@
    },
    {
       "name": "Svalbard And Jan Mayen Islands",
+      "arName": "جزر سفالبارد وجان ماين",
       "isoCode": "SJ",
       "flag": "🇸🇯",
       "phonecode": "47",
@@ -4814,6 +5025,7 @@
    },
    {
       "name": "Swaziland",
+      "arName": "سوازيلاند",
       "isoCode": "SZ",
       "flag": "🇸🇿",
       "phonecode": "268",
@@ -4832,6 +5044,7 @@
    },
    {
       "name": "Sweden",
+      "arName": "السويد",
       "isoCode": "SE",
       "flag": "🇸🇪",
       "phonecode": "46",
@@ -4850,6 +5063,7 @@
    },
    {
       "name": "Switzerland",
+      "arName": "سويسرا",
       "isoCode": "CH",
       "flag": "🇨🇭",
       "phonecode": "41",
@@ -4868,6 +5082,7 @@
    },
    {
       "name": "Syria",
+      "arName": "سوريا",
       "isoCode": "SY",
       "flag": "🇸🇾",
       "phonecode": "963",
@@ -4886,6 +5101,7 @@
    },
    {
       "name": "Taiwan",
+      "arName": "تايوان",
       "isoCode": "TW",
       "flag": "🇹🇼",
       "phonecode": "886",
@@ -4904,6 +5120,7 @@
    },
    {
       "name": "Tajikistan",
+      "arName": "طاجيكستان",
       "isoCode": "TJ",
       "flag": "🇹🇯",
       "phonecode": "992",
@@ -4922,6 +5139,7 @@
    },
    {
       "name": "Tanzania",
+      "arName": "تنزانيا",
       "isoCode": "TZ",
       "flag": "🇹🇿",
       "phonecode": "255",
@@ -4940,6 +5158,7 @@
    },
    {
       "name": "Thailand",
+      "arName": "تايلاند",
       "isoCode": "TH",
       "flag": "🇹🇭",
       "phonecode": "66",
@@ -4958,6 +5177,7 @@
    },
    {
       "name": "Togo",
+      "arName": "توجو",
       "isoCode": "TG",
       "flag": "🇹🇬",
       "phonecode": "228",
@@ -4976,6 +5196,7 @@
    },
    {
       "name": "Tokelau",
+      "arName": "توكيلاو",
       "isoCode": "TK",
       "flag": "🇹🇰",
       "phonecode": "690",
@@ -4994,6 +5215,7 @@
    },
    {
       "name": "Tonga",
+      "arName": "تونغا",
       "isoCode": "TO",
       "flag": "🇹🇴",
       "phonecode": "676",
@@ -5012,6 +5234,7 @@
    },
    {
       "name": "Trinidad And Tobago",
+      "arName": "ترينداد وتوباغو",
       "isoCode": "TT",
       "flag": "🇹🇹",
       "phonecode": "+1-868",
@@ -5030,6 +5253,7 @@
    },
    {
       "name": "Tunisia",
+      "arName": "تونس",
       "isoCode": "TN",
       "flag": "🇹🇳",
       "phonecode": "216",
@@ -5048,6 +5272,7 @@
    },
    {
       "name": "Turkey",
+      "arName": "تركيا",
       "isoCode": "TR",
       "flag": "🇹🇷",
       "phonecode": "90",
@@ -5066,6 +5291,7 @@
    },
    {
       "name": "Turkmenistan",
+      "arName": "تركمانستان",
       "isoCode": "TM",
       "flag": "🇹🇲",
       "phonecode": "993",
@@ -5084,6 +5310,7 @@
    },
    {
       "name": "Turks And Caicos Islands",
+      "arName": "جزر تركس وكايكوس",
       "isoCode": "TC",
       "flag": "🇹🇨",
       "phonecode": "+1-649",
@@ -5102,6 +5329,7 @@
    },
    {
       "name": "Tuvalu",
+      "arName": "توفالو",
       "isoCode": "TV",
       "flag": "🇹🇻",
       "phonecode": "688",
@@ -5120,6 +5348,7 @@
    },
    {
       "name": "Uganda",
+      "arName": "أوغندا",
       "isoCode": "UG",
       "flag": "🇺🇬",
       "phonecode": "256",
@@ -5138,6 +5367,7 @@
    },
    {
       "name": "Ukraine",
+      "arName": "أوكرانيا",
       "isoCode": "UA",
       "flag": "🇺🇦",
       "phonecode": "380",
@@ -5177,6 +5407,7 @@
    },
    {
       "name": "United Arab Emirates",
+      "arName": "الإمارات",
       "isoCode": "AE",
       "flag": "🇦🇪",
       "phonecode": "971",
@@ -5195,6 +5426,7 @@
    },
    {
       "name": "United Kingdom",
+      "arName": "المملكة المتحدة",
       "isoCode": "GB",
       "flag": "🇬🇧",
       "phonecode": "44",
@@ -5213,6 +5445,7 @@
    },
    {
       "name": "United States",
+      "arName": "الولايات المتحدة",
       "isoCode": "US",
       "flag": "🇺🇸",
       "phonecode": "1",
@@ -5427,6 +5660,7 @@
    },
    {
       "name": "United States Minor Outlying Islands",
+      "arName": "جزر الولايات المتحدة البعيدة الصغرى",
       "isoCode": "UM",
       "flag": "🇺🇲",
       "phonecode": "1",
@@ -5452,6 +5686,7 @@
    },
    {
       "name": "Uruguay",
+      "arName":  "أوروغواي",
       "isoCode": "UY",
       "flag": "🇺🇾",
       "phonecode": "598",
@@ -5470,6 +5705,7 @@
    },
    {
       "name": "Uzbekistan",
+      "arName":  "أوزبكستان",
       "isoCode": "UZ",
       "flag": "🇺🇿",
       "phonecode": "998",
@@ -5495,6 +5731,7 @@
    },
    {
       "name": "Vanuatu",
+      "arName":  "فانواتو",
       "isoCode": "VU",
       "flag": "🇻🇺",
       "phonecode": "678",
@@ -5513,6 +5750,7 @@
    },
    {
       "name": "Vatican City State (Holy See)",
+      "arName":  "ولاية مدينة الفاتيكان (الكرسي الرسولي)",
       "isoCode": "VA",
       "flag": "🇻🇦",
       "phonecode": "379",
@@ -5531,6 +5769,7 @@
    },
    {
       "name": "Venezuela",
+      "arName":  "فنزويلا",
       "isoCode": "VE",
       "flag": "🇻🇪",
       "phonecode": "58",
@@ -5549,6 +5788,7 @@
    },
    {
       "name": "Vietnam",
+      "arName":  "فيتنام",
       "isoCode": "VN",
       "flag": "🇻🇳",
       "phonecode": "84",
@@ -5567,6 +5807,7 @@
    },
    {
       "name": "Virgin Islands (British)",
+      "arName":  "جزر العذراء البريطانية)",
       "isoCode": "VG",
       "flag": "🇻🇬",
       "phonecode": "+1-284",
@@ -5585,6 +5826,7 @@
    },
    {
       "name": "Virgin Islands (US)",
+      "arName":  "جزر فيرجن (الولايات المتحدة)",
       "isoCode": "VI",
       "flag": "🇻🇮",
       "phonecode": "+1-340",
@@ -5603,6 +5845,7 @@
    },
    {
       "name": "Wallis And Futuna Islands",
+      "arName":  "جزر واليس وفوتونا",
       "isoCode": "WF",
       "flag": "🇼🇫",
       "phonecode": "681",
@@ -5621,6 +5864,7 @@
    },
    {
       "name": "Western Sahara",
+      "arName":  "الصحراء الغربية",
       "isoCode": "EH",
       "flag": "🇪🇭",
       "phonecode": "212",
@@ -5639,6 +5883,7 @@
    },
    {
       "name": "Yemen",
+      "arName":  "اليمن",
       "isoCode": "YE",
       "flag": "🇾🇪",
       "phonecode": "967",
@@ -5657,6 +5902,7 @@
    },
    {
       "name": "Zambia",
+      "arName":  "زامبيا",
       "isoCode": "ZM",
       "flag": "🇿🇲",
       "phonecode": "260",
@@ -5675,6 +5921,7 @@
    },
    {
       "name": "Zimbabwe",
+      "arName":  "زيمبابوي",
       "isoCode": "ZW",
       "flag": "🇿🇼",
       "phonecode": "263",
@@ -5693,6 +5940,7 @@
    },
    {
       "name": "Kosovo",
+      "arName":  "كوسوفو",
       "isoCode": "XK",
       "flag": "🇽🇰",
       "phonecode": "383",
@@ -5711,6 +5959,7 @@
    },
    {
       "name": "Curaçao",
+      "arName":  "كوراساو",
       "isoCode": "CW",
       "flag": "🇨🇼",
       "phonecode": "599",
@@ -5729,6 +5978,7 @@
    },
    {
       "name": "Sint Maarten (Dutch part)",
+      "arName":  "Sint Marthes (الجزء الهولندي)",
       "isoCode": "SX",
       "flag": "🇸🇽",
       "phonecode": "1721",

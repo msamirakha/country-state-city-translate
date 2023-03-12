@@ -1,13 +1,15 @@
 country-state-city
 ==============================
-Basic library for Country, State and City
+Basic library for Country, State and City - Supporting the Following Languages: 
+- English 
+- Arabic
 
 Data Source:<br>
 https://github.com/dr5hn/countries-states-cities-database<br>
 For any data related issue, you can also raise a Issue [here](https://github.com/dr5hn/countries-states-cities-database/issues/new).
 
 # Install
-`npm i country-state-city`
+`npm i country-state-city-translate`
 
 # Demos - Tree Shaking
 1. Next.js
