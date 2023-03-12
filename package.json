@@ -1,5 +1,5 @@
 {
-  "name": "country-state-city",
+  "name": "country-state-city-translate",
   "version": "3.1.2",
   "description": "Library for fetching Country, its States and Cities",
   "main": "./lib/cjs/index.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/harpreetkhalsagtbit/country-state-city.git"
+    "url": "git+https://github.com/msamirakha/country-state-city-translate.git"
   },
   "husky": {
     "hooks": {
@@ -36,9 +36,9 @@
     "Filter"
   ],
   "bugs": {
-    "url": "https://github.com/harpreetkhalsagtbit/country-state-city/issues"
+    "url": "https://github.com/msamirakha/country-state-city-translate/issues"
   },
-  "homepage": "https://github.com/harpreetkhalsagtbit/country-state-city#readme",
+  "homepage": "https://github.com/msamirakha/country-state-city-translate#readme",
   "dependencies": {},
   "devDependencies": {
     "ts-node": "^10.7.0",
