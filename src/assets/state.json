@@ -6070,6 +6070,7 @@
    },
    {
       "name": "Ontario",
+      "arName": "أونتاريو",
       "isoCode": "ON",
       "countryCode": "CA",
       "latitude": "51.25377500",
@@ -6077,6 +6078,7 @@
    },
    {
       "name": "Manitoba",
+      "arName": "مانيتوبا",
       "isoCode": "MB",
       "countryCode": "CA",
       "latitude": "53.76086080",
@@ -6084,6 +6086,7 @@
    },
    {
       "name": "New Brunswick",
+      "arName": "نيو برونزيك",
       "isoCode": "NB",
       "countryCode": "CA",
       "latitude": "46.56531630",
@@ -6091,6 +6094,7 @@
    },
    {
       "name": "Yukon",
+      "arName": "يوكون",
       "isoCode": "YT",
       "countryCode": "CA",
       "latitude": "35.50672150",
@@ -6098,6 +6102,7 @@
    },
    {
       "name": "Saskatchewan",
+      "arName": "ساسكاتشوان",
       "isoCode": "SK",
       "countryCode": "CA",
       "latitude": "52.93991590",
@@ -6105,6 +6110,7 @@
    },
    {
       "name": "Prince Edward Island",
+      "arName": "جزيرة الأمير ادوارد",
       "isoCode": "PE",
       "countryCode": "CA",
       "latitude": "46.51071200",
@@ -6112,6 +6118,7 @@
    },
    {
       "name": "Alberta",
+      "arName": "ألبرتا",
       "isoCode": "AB",
       "countryCode": "CA",
       "latitude": "53.93327060",
@@ -6119,6 +6126,7 @@
    },
    {
       "name": "Quebec",
+      "arName": "كيبيك",
       "isoCode": "QC",
       "countryCode": "CA",
       "latitude": "52.93991590",
@@ -6126,6 +6134,7 @@
    },
    {
       "name": "Nova Scotia",
+      "arName": "سكوتيا الجديدة",
       "isoCode": "NS",
       "countryCode": "CA",
       "latitude": "44.68198660",
@@ -6133,6 +6142,7 @@
    },
    {
       "name": "British Columbia",
+      "arName": "برتش كلومبيا",
       "isoCode": "BC",
       "countryCode": "CA",
       "latitude": "53.72666830",
@@ -6140,6 +6150,7 @@
    },
    {
       "name": "Nunavut",
+      "arName": "نونافوت",
       "isoCode": "NU",
       "countryCode": "CA",
       "latitude": "70.29977110",
@@ -6147,6 +6158,7 @@
    },
    {
       "name": "Newfoundland and Labrador",
+      "arName": "نيوفاوندلاند ولابرادور",
       "isoCode": "NL",
       "countryCode": "CA",
       "latitude": "53.13550910",
@@ -6154,6 +6166,7 @@
    },
    {
       "name": "Northwest Territories",
+      "arName": "الاقاليم الشمالية الغربية",
       "isoCode": "NT",
       "countryCode": "CA",
       "latitude": "64.82554410",
@@ -6707,6 +6720,7 @@
    },
    {
       "name": "Karak Governorate",
+      "arName": "الكرك",
       "isoCode": "KA",
       "countryCode": "JO",
       "latitude": "31.18535270",
@@ -6714,6 +6728,7 @@
    },
    {
       "name": "Tafilah Governorate",
+      "arName": "الطفيلة",
       "isoCode": "AT",
       "countryCode": "JO",
       "latitude": "30.83380630",
@@ -6721,6 +6736,7 @@
    },
    {
       "name": "Madaba Governorate",
+      "arName": "مادبا",
       "isoCode": "MD",
       "countryCode": "JO",
       "latitude": "31.71960970",
@@ -6728,6 +6744,7 @@
    },
    {
       "name": "Aqaba Governorate",
+      "arName": "العقبة",
       "isoCode": "AQ",
       "countryCode": "JO",
       "latitude": "29.53208600",
@@ -6735,6 +6752,7 @@
    },
    {
       "name": "Irbid Governorate",
+      "arName": "إربد",
       "isoCode": "IR",
       "countryCode": "JO",
       "latitude": "32.55696360",
@@ -6742,6 +6760,7 @@
    },
    {
       "name": "Balqa Governorate",
+      "arName": "البلقة",
       "isoCode": "BA",
       "countryCode": "JO",
       "latitude": "32.03668060",
@@ -6749,6 +6768,7 @@
    },
    {
       "name": "Mafraq Governorate",
+      "arName": "المفرق",
       "isoCode": "MA",
       "countryCode": "JO",
       "latitude": "32.34169230",
@@ -6756,6 +6776,7 @@
    },
    {
       "name": "Ajloun Governorate",
+      "arName": "عجلون",
       "isoCode": "AJ",
       "countryCode": "JO",
       "latitude": "32.33255840",
@@ -6763,6 +6784,7 @@
    },
    {
       "name": "Ma'an Governorate",
+      "arName": "معان",
       "isoCode": "MN",
       "countryCode": "JO",
       "latitude": "30.19267890",
@@ -6770,6 +6792,7 @@
    },
    {
       "name": "Amman Governorate",
+      "arName": "عمان",
       "isoCode": "AM",
       "countryCode": "JO",
       "latitude": "31.94536330",
@@ -6777,6 +6800,7 @@
    },
    {
       "name": "Jerash Governorate",
+      "arName": "جرش",
       "isoCode": "JA",
       "countryCode": "JO",
       "latitude": "32.27472370",
@@ -6784,6 +6808,7 @@
    },
    {
       "name": "Zarqa Governorate",
+      "arName": "الزرقاء",
       "isoCode": "AZ",
       "countryCode": "JO",
       "latitude": "32.06085050",
@@ -6819,6 +6844,7 @@
    },
    {
       "name": "Al Jahra Governorate",
+      "arName": "الجهراء",
       "isoCode": "JA",
       "countryCode": "KW",
       "latitude": "29.99318310",
@@ -6826,6 +6852,7 @@
    },
    {
       "name": "Hawalli Governorate",
+      "arName": "حولي",
       "isoCode": "HA",
       "countryCode": "KW",
       "latitude": "29.30567160",
@@ -6833,6 +6860,7 @@
    },
    {
       "name": "Mubarak Al-Kabeer Governorate",
+      "arName": "مبارك الكبير",
       "isoCode": "MU",
       "countryCode": "KW",
       "latitude": "29.21224000",
@@ -6840,6 +6868,7 @@
    },
    {
       "name": "Al Farwaniyah Governorate",
+      "arName": "الفروانية",
       "isoCode": "FA",
       "countryCode": "KW",
       "latitude": "29.27335700",
@@ -6847,6 +6876,7 @@
    },
    {
       "name": "Capital Governorate",
+      "arName": "الكويت العاصمة",
       "isoCode": "KU",
       "countryCode": "KW",
       "latitude": "26.22851610",
@@ -6854,6 +6884,7 @@
    },
    {
       "name": "Al Ahmadi Governorate",
+      "arName": "الأحمدي",
       "isoCode": "AH",
       "countryCode": "KW",
       "latitude": "28.57451250",
@@ -7701,6 +7732,7 @@
    },
    {
       "name": "Djelfa",
+      "arName": "الجلفة",
       "isoCode": "17",
       "countryCode": "DZ",
       "latitude": "34.67039560",
@@ -7708,6 +7740,7 @@
    },
    {
       "name": "El Oued",
+      "arName": "الوادي",
       "isoCode": "39",
       "countryCode": "DZ",
       "latitude": "33.36781100",
@@ -7715,6 +7748,7 @@
    },
    {
       "name": "El Tarf",
+      "arName": "الطارف",
       "isoCode": "36",
       "countryCode": "DZ",
       "latitude": "36.75766780",
@@ -7722,6 +7756,7 @@
    },
    {
       "name": "Oran",
+      "arName": "وهران",
       "isoCode": "31",
       "countryCode": "DZ",
       "latitude": "35.60823510",
@@ -7729,6 +7764,7 @@
    },
    {
       "name": "Naama",
+      "arName": "النعامة",
       "isoCode": "45",
       "countryCode": "DZ",
       "latitude": "33.26673170",
@@ -7736,6 +7772,7 @@
    },
    {
       "name": "Annaba",
+      "arName": "عنابة",
       "isoCode": "23",
       "countryCode": "DZ",
       "latitude": "36.80205080",
@@ -7743,6 +7780,7 @@
    },
    {
       "name": "Bouïra",
+      "arName": "البويرة",
       "isoCode": "10",
       "countryCode": "DZ",
       "latitude": "36.36918460",
@@ -7750,6 +7788,7 @@
    },
    {
       "name": "Chlef",
+      "arName": "الشلف",
       "isoCode": "02",
       "countryCode": "DZ",
       "latitude": "36.16935150",
@@ -7757,6 +7796,7 @@
    },
    {
       "name": "Tiaret",
+      "arName": "تيارت",
       "isoCode": "14",
       "countryCode": "DZ",
       "latitude": "35.37086890",
@@ -7764,6 +7804,7 @@
    },
    {
       "name": "Tlemcen",
+      "arName": "تلمسان",
       "isoCode": "13",
       "countryCode": "DZ",
       "latitude": "34.67802840",
@@ -7771,6 +7812,7 @@
    },
    {
       "name": "Béchar",
+      "arName": "بشار",
       "isoCode": "08",
       "countryCode": "DZ",
       "latitude": "31.62380980",
@@ -7778,6 +7820,7 @@
    },
    {
       "name": "Médéa",
+      "arName": "المدية",
       "isoCode": "26",
       "countryCode": "DZ",
       "latitude": "36.26370780",
@@ -7785,6 +7828,7 @@
    },
    {
       "name": "Skikda",
+      "arName": "سكيكدة",
       "isoCode": "21",
       "countryCode": "DZ",
       "latitude": "36.67211980",
@@ -7792,6 +7836,7 @@
    },
    {
       "name": "Blida",
+      "arName": "البليدة",
       "isoCode": "09",
       "countryCode": "DZ",
       "latitude": "36.53112300",
@@ -7799,6 +7844,7 @@
    },
    {
       "name": "Illizi",
+      "arName": "اليزي",
       "isoCode": "33",
       "countryCode": "DZ",
       "latitude": "26.16900050",
@@ -7806,6 +7852,7 @@
    },
    {
       "name": "Jijel",
+      "arName": "جيجل",
       "isoCode": "18",
       "countryCode": "DZ",
       "latitude": "36.71796810",
@@ -7813,6 +7860,7 @@
    },
    {
       "name": "Biskra",
+      "arName": "بسكرة",
       "isoCode": "07",
       "countryCode": "DZ",
       "latitude": "34.84494370",
@@ -7820,6 +7868,7 @@
    },
    {
       "name": "Tipasa",
+      "arName": "تيباسة",
       "isoCode": "42",
       "countryCode": "DZ",
       "latitude": "36.54626500",
@@ -7827,6 +7876,7 @@
    },
    {
       "name": "Bordj Bou Arréridj",
+      "arName": "برج بوعريريج",
       "isoCode": "34",
       "countryCode": "DZ",
       "latitude": "36.07399250",
@@ -7834,6 +7884,7 @@
    },
    {
       "name": "Tébessa",
+      "arName": "تبسة",
       "isoCode": "12",
       "countryCode": "DZ",
       "latitude": "35.12906910",
@@ -7841,6 +7892,7 @@
    },
    {
       "name": "Adrar",
+      "arName": "أدرار",
       "isoCode": "01",
       "countryCode": "DZ",
       "latitude": "26.41813100",
@@ -7848,6 +7900,7 @@
    },
    {
       "name": "Aïn Defla",
+      "arName": "عين الدفلى",
       "isoCode": "44",
       "countryCode": "DZ",
       "latitude": "36.25094290",
@@ -7855,6 +7908,7 @@
    },
    {
       "name": "Tindouf",
+      "arName": "تندوف",
       "isoCode": "37",
       "countryCode": "DZ",
       "latitude": "27.80631190",
@@ -7862,6 +7916,7 @@
    },
    {
       "name": "Constantine",
+      "arName": "قسنطينة",
       "isoCode": "25",
       "countryCode": "DZ",
       "latitude": "36.33739110",
@@ -7869,6 +7924,7 @@
    },
    {
       "name": "Aïn Témouchent",
+      "arName": "عين تموشنت",
       "isoCode": "46",
       "countryCode": "DZ",
       "latitude": "35.29926980",
@@ -7876,6 +7932,7 @@
    },
    {
       "name": "Saïda",
+      "arName": "سعيدة",
       "isoCode": "20",
       "countryCode": "DZ",
       "latitude": "34.84152070",
@@ -7883,6 +7940,7 @@
    },
    {
       "name": "Mascara",
+      "arName": "معسكر",
       "isoCode": "29",
       "countryCode": "DZ",
       "latitude": "35.39041250",
@@ -7890,6 +7948,7 @@
    },
    {
       "name": "Boumerdès",
+      "arName": "بومرداس",
       "isoCode": "35",
       "countryCode": "DZ",
       "latitude": "36.68395590",
@@ -7897,6 +7956,7 @@
    },
    {
       "name": "Khenchela",
+      "arName": "خنشلة",
       "isoCode": "40",
       "countryCode": "DZ",
       "latitude": "35.42694040",
@@ -7904,6 +7964,7 @@
    },
    {
       "name": "Ghardaïa",
+      "arName": "غرداية",
       "isoCode": "47",
       "countryCode": "DZ",
       "latitude": "32.49437410",
@@ -7911,6 +7972,7 @@
    },
    {
       "name": "Béjaïa",
+      "arName": "بجاية",
       "isoCode": "06",
       "countryCode": "DZ",
       "latitude": "36.75152580",
@@ -7918,6 +7980,7 @@
    },
    {
       "name": "El Bayadh",
+      "arName": "البيض",
       "isoCode": "32",
       "countryCode": "DZ",
       "latitude": "32.71488240",
@@ -7925,6 +7988,7 @@
    },
    {
       "name": "Relizane",
+      "arName": "غليزان",
       "isoCode": "48",
       "countryCode": "DZ",
       "latitude": "35.73834050",
@@ -7932,6 +7996,7 @@
    },
    {
       "name": "Tizi Ouzou",
+      "arName": "تيزي وزو",
       "isoCode": "15",
       "countryCode": "DZ",
       "latitude": "36.70691100",
@@ -7939,6 +8004,7 @@
    },
    {
       "name": "Mila",
+      "arName": "ميلة",
       "isoCode": "43",
       "countryCode": "DZ",
       "latitude": "36.36479570",
@@ -7946,6 +8012,7 @@
    },
    {
       "name": "Tissemsilt",
+      "arName": "تسمسيلت",
       "isoCode": "38",
       "countryCode": "DZ",
       "latitude": "35.60537810",
@@ -7953,6 +8020,7 @@
    },
    {
       "name": "M'Sila",
+      "arName": "المسيلة",
       "isoCode": "28",
       "countryCode": "DZ",
       "latitude": "35.71866460",
@@ -7960,6 +8028,7 @@
    },
    {
       "name": "Tamanghasset",
+      "arName": "تمنراست",
       "isoCode": "11",
       "countryCode": "DZ",
       "latitude": "22.79029720",
@@ -7967,6 +8036,7 @@
    },
    {
       "name": "Oum El Bouaghi",
+      "arName": "أم البواقي",
       "isoCode": "04",
       "countryCode": "DZ",
       "latitude": "35.86887890",
@@ -7974,6 +8044,7 @@
    },
    {
       "name": "Guelma",
+      "arName": "قالمة",
       "isoCode": "24",
       "countryCode": "DZ",
       "latitude": "36.46274440",
@@ -7981,6 +8052,7 @@
    },
    {
       "name": "Laghouat",
+      "arName": "الأغواط",
       "isoCode": "03",
       "countryCode": "DZ",
       "latitude": "33.80783410",
@@ -7988,6 +8060,7 @@
    },
    {
       "name": "Ouargla",
+      "arName": "ورقلة",
       "isoCode": "30",
       "countryCode": "DZ",
       "latitude": "32.22648630",
@@ -7995,6 +8068,7 @@
    },
    {
       "name": "Mostaganem",
+      "arName": "مستغانم",
       "isoCode": "27",
       "countryCode": "DZ",
       "latitude": "35.95830540",
@@ -8002,6 +8076,7 @@
    },
    {
       "name": "Sétif",
+      "arName": "سطيف",
       "isoCode": "19",
       "countryCode": "DZ",
       "latitude": "36.30733890",
@@ -8009,6 +8084,7 @@
    },
    {
       "name": "Batna",
+      "arName": "باتنة",
       "isoCode": "05",
       "countryCode": "DZ",
       "latitude": "35.59659540",
@@ -8016,6 +8092,7 @@
    },
    {
       "name": "Souk Ahras",
+      "arName": "سوق أهراس",
       "isoCode": "41",
       "countryCode": "DZ",
       "latitude": "36.28010620",
@@ -8023,6 +8100,7 @@
    },
    {
       "name": "Algiers",
+      "arName": "الجزائر",
       "isoCode": "16",
       "countryCode": "DZ",
       "latitude": "36.69972940",
@@ -8030,6 +8108,7 @@
    },
    {
       "name": "Sidi Bel Abbès",
+      "arName": "سيدي بلعباس",
       "isoCode": "22",
       "countryCode": "DZ",
       "latitude": "34.68060240",
@@ -8037,6 +8116,7 @@
    },
    {
       "name": "El M'ghair",
+      "arName": "المغير",
       "isoCode": "49",
       "countryCode": "DZ",
       "latitude": "33.95405610",
@@ -8044,6 +8124,7 @@
    },
    {
       "name": "El Menia",
+      "arName": "المنيعة",
       "isoCode": "50",
       "countryCode": "DZ",
       "latitude": "31.36422500",
@@ -8051,6 +8132,7 @@
    },
    {
       "name": "Ouled Djellal",
+      "arName": "أولاد جلال",
       "isoCode": "51",
       "countryCode": "DZ",
       "latitude": "34.41782210",
@@ -8058,6 +8140,7 @@
    },
    {
       "name": "Bordj Baji Mokhtar",
+      "arName": "برج باجي مختار",
       "isoCode": "52",
       "countryCode": "DZ",
       "latitude": "22.96633500",
@@ -8065,6 +8148,7 @@
    },
    {
       "name": "Béni Abbès",
+      "arName": "بني عباس",
       "isoCode": "53",
       "countryCode": "DZ",
       "latitude": "30.08310420",
@@ -8072,6 +8156,7 @@
    },
    {
       "name": "Timimoun",
+      "arName": "تيميمون",
       "isoCode": "54",
       "countryCode": "DZ",
       "latitude": "29.67890600",
@@ -8079,6 +8164,7 @@
    },
    {
       "name": "Touggourt",
+      "arName": "تقرت",
       "isoCode": "55",
       "countryCode": "DZ",
       "latitude": "33.12484760",
@@ -8086,6 +8172,7 @@
    },
    {
       "name": "Djanet",
+      "arName": "جانت",
       "isoCode": "56",
       "countryCode": "DZ",
       "latitude": "23.83108720",
@@ -8093,6 +8180,7 @@
    },
    {
       "name": "In Salah",
+      "arName": "عين صالح",
       "isoCode": "57",
       "countryCode": "DZ",
       "latitude": "27.21492290",
@@ -8100,6 +8188,7 @@
    },
    {
       "name": "In Guezzam",
+      "arName": "عين قزّام",
       "isoCode": "58",
       "countryCode": "DZ",
       "latitude": "20.38643230",
@@ -9626,6 +9715,7 @@
    },
    {
       "name": "Howland Island",
+      "arName": "جزيرة هاولاند",
       "isoCode": "UM-84",
       "countryCode": "US",
       "latitude": "0.81132190",
@@ -9633,6 +9723,7 @@
    },
    {
       "name": "Delaware",
+      "arName": "ديلاوير",
       "isoCode": "DE",
       "countryCode": "US",
       "latitude": "38.91083250",
@@ -9640,6 +9731,7 @@
    },
    {
       "name": "Alaska",
+      "arName": "السكا",
       "isoCode": "AK",
       "countryCode": "US",
       "latitude": "64.20084130",
@@ -9647,6 +9739,7 @@
    },
    {
       "name": "Maryland",
+      "arName": "ماريلاند",
       "isoCode": "MD",
       "countryCode": "US",
       "latitude": "39.04575490",
@@ -9654,6 +9747,7 @@
    },
    {
       "name": "Baker Island",
+      "arName": "جزيرة بيكر",
       "isoCode": "UM-81",
       "countryCode": "US",
       "latitude": "0.19362660",
@@ -9661,6 +9755,7 @@
    },
    {
       "name": "Kingman Reef",
+      "arName": "كينجمن ريف",
       "isoCode": "UM-89",
       "countryCode": "US",
       "latitude": "6.38333300",
@@ -9668,6 +9763,7 @@
    },
    {
       "name": "New Hampshire",
+      "arName": "نيو هامبشاير",
       "isoCode": "NH",
       "countryCode": "US",
       "latitude": "43.19385160",
@@ -9675,6 +9771,7 @@
    },
    {
       "name": "Wake Island",
+      "arName": "جزيرة ويك",
       "isoCode": "UM-79",
       "countryCode": "US",
       "latitude": "19.27961900",
@@ -9682,6 +9779,7 @@
    },
    {
       "name": "Kansas",
+      "arName": "كانساس",
       "isoCode": "KS",
       "countryCode": "US",
       "latitude": "39.01190200",
@@ -9689,6 +9787,7 @@
    },
    {
       "name": "Texas",
+      "arName": "تكساس",
       "isoCode": "TX",
       "countryCode": "US",
       "latitude": "31.96859880",
@@ -9696,6 +9795,7 @@
    },
    {
       "name": "Nebraska",
+      "arName": "نبراسكا",
       "isoCode": "NE",
       "countryCode": "US",
       "latitude": "41.49253740",
@@ -9703,6 +9803,7 @@
    },
    {
       "name": "Vermont",
+      "arName": "فيرمونت",
       "isoCode": "VT",
       "countryCode": "US",
       "latitude": "44.55880280",
@@ -9710,6 +9811,7 @@
    },
    {
       "name": "Jarvis Island",
+      "arName": "جزيرة جارفيس",
       "isoCode": "UM-86",
       "countryCode": "US",
       "latitude": "-0.37435030",
@@ -9717,6 +9819,7 @@
    },
    {
       "name": "Hawaii",
+      "arName": "هاواي",
       "isoCode": "HI",
       "countryCode": "US",
       "latitude": "19.89676620",
@@ -9724,6 +9827,7 @@
    },
    {
       "name": "Guam",
+      "arName": "غوام",
       "isoCode": "GU",
       "countryCode": "US",
       "latitude": "13.44430400",
@@ -9731,6 +9835,7 @@
    },
    {
       "name": "United States Virgin Islands",
+      "arName": " جزر فيرجن ",
       "isoCode": "VI",
       "countryCode": "US",
       "latitude": "18.33576500",
@@ -9738,6 +9843,7 @@
    },
    {
       "name": "Utah",
+      "arName": "يوتا",
       "isoCode": "UT",
       "countryCode": "US",
       "latitude": "39.32098010",
@@ -9745,6 +9851,7 @@
    },
    {
       "name": "Oregon",
+      "arName": "أوريغون",
       "isoCode": "OR",
       "countryCode": "US",
       "latitude": "43.80413340",
@@ -9752,6 +9859,7 @@
    },
    {
       "name": "California",
+      "arName": "كاليفورنيا",
       "isoCode": "CA",
       "countryCode": "US",
       "latitude": "36.77826100",
@@ -9759,6 +9867,7 @@
    },
    {
       "name": "New Jersey",
+      "arName": "نيو جيرسي",
       "isoCode": "NJ",
       "countryCode": "US",
       "latitude": "40.05832380",
@@ -9766,6 +9875,7 @@
    },
    {
       "name": "North Dakota",
+      "arName": "شمال داكوتا",
       "isoCode": "ND",
       "countryCode": "US",
       "latitude": "47.55149260",
@@ -9773,6 +9883,7 @@
    },
    {
       "name": "Kentucky",
+      "arName": "كنتاكي",
       "isoCode": "KY",
       "countryCode": "US",
       "latitude": "37.83933320",
@@ -9780,6 +9891,7 @@
    },
    {
       "name": "Minnesota",
+      "arName": "مينيسوتا",
       "isoCode": "MN",
       "countryCode": "US",
       "latitude": "46.72955300",
@@ -9787,6 +9899,7 @@
    },
    {
       "name": "Oklahoma",
+      "arName": "أوكلاهولا",
       "isoCode": "OK",
       "countryCode": "US",
       "latitude": "35.46756020",
@@ -9794,6 +9907,7 @@
    },
    {
       "name": "Pennsylvania",
+      "arName": "بنسلفانيا",
       "isoCode": "PA",
       "countryCode": "US",
       "latitude": "41.20332160",
@@ -9801,6 +9915,7 @@
    },
    {
       "name": "New Mexico",
+      "arName": "المكسيك جديدة",
       "isoCode": "NM",
       "countryCode": "US",
       "latitude": "34.51994020",
@@ -9808,6 +9923,7 @@
    },
    {
       "name": "American Samoa",
+      "arName": "ساموا الأمريكية",
       "isoCode": "AS",
       "countryCode": "US",
       "latitude": "-14.27097200",
@@ -9815,6 +9931,7 @@
    },
    {
       "name": "Illinois",
+      "arName": "إلينوي",
       "isoCode": "IL",
       "countryCode": "US",
       "latitude": "40.63312490",
@@ -9822,6 +9939,7 @@
    },
    {
       "name": "Michigan",
+      "arName": "مشيجان",
       "isoCode": "MI",
       "countryCode": "US",
       "latitude": "44.31484430",
@@ -9829,6 +9947,7 @@
    },
    {
       "name": "Virginia",
+      "arName": "فرجينيا",
       "isoCode": "VA",
       "countryCode": "US",
       "latitude": "37.43157340",
@@ -9836,6 +9955,7 @@
    },
    {
       "name": "Johnston Atoll",
+      "arName": "جونستون أتول",
       "isoCode": "UM-67",
       "countryCode": "US",
       "latitude": "16.72950350",
@@ -9843,6 +9963,7 @@
    },
    {
       "name": "West Virginia",
+      "arName": "فرجينيا الغربية",
       "isoCode": "WV",
       "countryCode": "US",
       "latitude": "38.59762620",
@@ -9850,6 +9971,7 @@
    },
    {
       "name": "Mississippi",
+      "arName": "ميسيسيبي",
       "isoCode": "MS",
       "countryCode": "US",
       "latitude": "32.35466790",
@@ -9857,6 +9979,7 @@
    },
    {
       "name": "Northern Mariana Islands",
+      "arName": "جزر مريانا الشمالية",
       "isoCode": "MP",
       "countryCode": "US",
       "latitude": "15.09790000",
@@ -9864,6 +9987,7 @@
    },
    {
       "name": "United States Minor Outlying Islands",
+      "arName": "جزر البعيدة الصغرى",
       "isoCode": "UM",
       "countryCode": "US",
       "latitude": "19.28231920",
@@ -9871,6 +9995,7 @@
    },
    {
       "name": "Massachusetts",
+      "arName": "ماساتشوستس",
       "isoCode": "MA",
       "countryCode": "US",
       "latitude": "42.40721070",
@@ -9878,6 +10003,7 @@
    },
    {
       "name": "Arizona",
+      "arName": "أريزونا",
       "isoCode": "AZ",
       "countryCode": "US",
       "latitude": "34.04892810",
@@ -9885,6 +10011,7 @@
    },
    {
       "name": "Connecticut",
+      "arName": "كونيتيكت",
       "isoCode": "CT",
       "countryCode": "US",
       "latitude": "41.60322070",
@@ -9892,6 +10019,7 @@
    },
    {
       "name": "Florida",
+      "arName": "فلوريدا",
       "isoCode": "FL",
       "countryCode": "US",
       "latitude": "27.66482740",
@@ -9899,6 +10027,7 @@
    },
    {
       "name": "District of Columbia",
+      "arName": "مقاطعة كولومبيا",
       "isoCode": "DC",
       "countryCode": "US",
       "latitude": "38.90719230",
@@ -9906,6 +10035,7 @@
    },
    {
       "name": "Midway Atoll",
+      "arName": "مدواي اتول",
       "isoCode": "UM-71",
       "countryCode": "US",
       "latitude": "28.20721680",
@@ -9913,6 +10043,7 @@
    },
    {
       "name": "Navassa Island",
+      "arName": "جزيرة نافسا",
       "isoCode": "UM-76",
       "countryCode": "US",
       "latitude": "18.41006890",
@@ -9920,6 +10051,7 @@
    },
    {
       "name": "Indiana",
+      "arName": "إنديانا",
       "isoCode": "IN",
       "countryCode": "US",
       "latitude": "40.26719410",
@@ -9927,6 +10059,7 @@
    },
    {
       "name": "Wisconsin",
+      "arName": "ويسكونسن",
       "isoCode": "WI",
       "countryCode": "US",
       "latitude": "43.78443970",
@@ -9934,6 +10067,7 @@
    },
    {
       "name": "Wyoming",
+      "arName": "وايومنغ",
       "isoCode": "WY",
       "countryCode": "US",
       "latitude": "43.07596780",
@@ -9941,6 +10075,7 @@
    },
    {
       "name": "South Carolina",
+      "arName": "كارولينا الجنوبية",
       "isoCode": "SC",
       "countryCode": "US",
       "latitude": "33.83608100",
@@ -9948,6 +10083,7 @@
    },
    {
       "name": "Arkansas",
+      "arName": "أركانسا",
       "isoCode": "AR",
       "countryCode": "US",
       "latitude": "35.20105000",
@@ -9955,6 +10091,7 @@
    },
    {
       "name": "South Dakota",
+      "arName": "جنوب داكوتا",
       "isoCode": "SD",
       "countryCode": "US",
       "latitude": "43.96951480",
@@ -9962,6 +10099,7 @@
    },
    {
       "name": "Montana",
+      "arName": "مونتانا",
       "isoCode": "MT",
       "countryCode": "US",
       "latitude": "46.87968220",
@@ -9969,6 +10107,7 @@
    },
    {
       "name": "North Carolina",
+      "arName": "شمال كارولينا",
       "isoCode": "NC",
       "countryCode": "US",
       "latitude": "35.75957310",
@@ -9976,6 +10115,7 @@
    },
    {
       "name": "Palmyra Atoll",
+      "arName": "تدمر الجزيرة",
       "isoCode": "UM-95",
       "countryCode": "US",
       "latitude": "5.88850260",
@@ -9983,6 +10123,7 @@
    },
    {
       "name": "Puerto Rico",
+      "arName": "بورتوريكو",
       "isoCode": "PR",
       "countryCode": "US",
       "latitude": "18.22083300",
@@ -9990,6 +10131,7 @@
    },
    {
       "name": "Colorado",
+      "arName": "كولورادو",
       "isoCode": "CO",
       "countryCode": "US",
       "latitude": "39.55005070",
@@ -9997,6 +10139,7 @@
    },
    {
       "name": "Missouri",
+      "arName": "ميسوري",
       "isoCode": "MO",
       "countryCode": "US",
       "latitude": "37.96425290",
@@ -10004,6 +10147,7 @@
    },
    {
       "name": "New York",
+      "arName": "نيويورك",
       "isoCode": "NY",
       "countryCode": "US",
       "latitude": "40.71277530",
@@ -10011,6 +10155,7 @@
    },
    {
       "name": "Maine",
+      "arName": "مين",
       "isoCode": "ME",
       "countryCode": "US",
       "latitude": "45.25378300",
@@ -10018,6 +10163,7 @@
    },
    {
       "name": "Tennessee",
+      "arName": "تينيسي",
       "isoCode": "TN",
       "countryCode": "US",
       "latitude": "35.51749130",
@@ -10025,6 +10171,7 @@
    },
    {
       "name": "Georgia",
+      "arName": "جورجيا",
       "isoCode": "GA",
       "countryCode": "US",
       "latitude": "32.16562210",
@@ -10032,6 +10179,7 @@
    },
    {
       "name": "Alabama",
+      "arName": "ألاباما",
       "isoCode": "AL",
       "countryCode": "US",
       "latitude": "32.31823140",
@@ -10039,6 +10187,7 @@
    },
    {
       "name": "Louisiana",
+      "arName": "لويزيانا",
       "isoCode": "LA",
       "countryCode": "US",
       "latitude": "30.98429770",
@@ -10046,6 +10195,7 @@
    },
    {
       "name": "Nevada",
+      "arName": "نيفادا",
       "isoCode": "NV",
       "countryCode": "US",
       "latitude": "38.80260970",
@@ -10053,6 +10203,7 @@
    },
    {
       "name": "Iowa",
+      "arName": "أيوا",
       "isoCode": "IA",
       "countryCode": "US",
       "latitude": "41.87800250",
@@ -10060,6 +10211,7 @@
    },
    {
       "name": "Idaho",
+      "arName": "أيداهو",
       "isoCode": "ID",
       "countryCode": "US",
       "latitude": "44.06820190",
@@ -10067,6 +10219,7 @@
    },
    {
       "name": "Rhode Island",
+      "arName": "جزيرة رود",
       "isoCode": "RI",
       "countryCode": "US",
       "latitude": "41.58009450",
@@ -10074,6 +10227,7 @@
    },
    {
       "name": "Washington",
+      "arName": "واشنطن",
       "isoCode": "WA",
       "countryCode": "US",
       "latitude": "47.75107410",
@@ -10081,6 +10235,7 @@
    },
    {
       "name": "Ohio",
+      "arName": "أوهايو",
       "isoCode": "OH",
       "countryCode": "US",
       "latitude": "40.41728710",
@@ -13784,6 +13939,7 @@
    },
    {
       "name": "Capital Governorate",
+      "arName": "العاصمة",
       "isoCode": "13",
       "countryCode": "BH",
       "latitude": null,
@@ -13791,6 +13947,7 @@
    },
    {
       "name": "Southern Governorate",
+      "arName": "الجنوبية",
       "isoCode": "14",
       "countryCode": "BH",
       "latitude": "25.93810180",
@@ -13798,6 +13955,7 @@
    },
    {
       "name": "Northern Governorate",
+      "arName": "الشمالية",
       "isoCode": "17",
       "countryCode": "BH",
       "latitude": "26.15519140",
@@ -13805,6 +13963,7 @@
    },
    {
       "name": "Muharraq Governorate",
+      "arName": "المحرق",
       "isoCode": "15",
       "countryCode": "BH",
       "latitude": "26.26856530",
@@ -13812,6 +13971,7 @@
    },
    {
       "name": "Central Governorate",
+      "arName": "المركزية",
       "isoCode": "16",
       "countryCode": "BH",
       "latitude": "26.14260930",
@@ -15604,6 +15764,7 @@
    },
    {
       "name": "Zhejiang",
+      "arName": "تشجيانغ",
       "isoCode": "ZJ",
       "countryCode": "CN",
       "latitude": "29.14164320",
@@ -15611,6 +15772,7 @@
    },
    {
       "name": "Fujian",
+      "arName": "فوجيان",
       "isoCode": "FJ",
       "countryCode": "CN",
       "latitude": "26.48368420",
@@ -15618,6 +15780,7 @@
    },
    {
       "name": "Shanghai",
+      "arName": "شنغهاي",
       "isoCode": "SH",
       "countryCode": "CN",
       "latitude": "31.23041600",
@@ -15625,6 +15788,7 @@
    },
    {
       "name": "Jiangsu",
+      "arName": "جيانغسو",
       "isoCode": "JS",
       "countryCode": "CN",
       "latitude": "33.14017150",
@@ -15632,6 +15796,7 @@
    },
    {
       "name": "Anhui",
+      "arName": "أنهوي",
       "isoCode": "AH",
       "countryCode": "CN",
       "latitude": "30.60067730",
@@ -15639,6 +15804,7 @@
    },
    {
       "name": "Shandong",
+      "arName": "شاندونغ",
       "isoCode": "SD",
       "countryCode": "CN",
       "latitude": "37.80060640",
@@ -15646,6 +15812,7 @@
    },
    {
       "name": "Jilin",
+      "arName": "جيلين",
       "isoCode": "JL",
       "countryCode": "CN",
       "latitude": "43.83788300",
@@ -15653,6 +15820,7 @@
    },
    {
       "name": "Shanxi",
+      "arName": "شانشي",
       "isoCode": "SX",
       "countryCode": "CN",
       "latitude": "37.24256490",
@@ -15660,6 +15828,7 @@
    },
    {
       "name": "Taiwan",
+      "arName": "تايوان",
       "isoCode": "TW",
       "countryCode": "CN",
       "latitude": "23.69781000",
@@ -15667,6 +15836,7 @@
    },
    {
       "name": "Jiangxi",
+      "arName": "جياتجسي",
       "isoCode": "JX",
       "countryCode": "CN",
       "latitude": "27.08745640",
@@ -15674,6 +15844,7 @@
    },
    {
       "name": "Beijing",
+      "arName": "بكين",
       "isoCode": "BJ",
       "countryCode": "CN",
       "latitude": "39.90419990",
@@ -15681,6 +15852,7 @@
    },
    {
       "name": "Hunan",
+      "arName": "هونان",
       "isoCode": "HN",
       "countryCode": "CN",
       "latitude": "36.73412940",
@@ -15688,6 +15860,7 @@
    },
    {
       "name": "Henan",
+      "arName": "هينان",
       "isoCode": "HA",
       "countryCode": "CN",
       "latitude": "34.29043020",
@@ -15695,6 +15868,7 @@
    },
    {
       "name": "Yunnan",
+      "arName": "يونان",
       "isoCode": "YN",
       "countryCode": "CN",
       "latitude": "24.47528470",
@@ -15702,6 +15876,7 @@
    },
    {
       "name": "Guizhou",
+      "arName": "غيتشو",
       "isoCode": "GZ",
       "countryCode": "CN",
       "latitude": "26.84296450",
@@ -15709,6 +15884,7 @@
    },
    {
       "name": "Ningxia Huizu",
+      "arName": "ناجكسيا هيزو",
       "isoCode": "NX",
       "countryCode": "CN",
       "latitude": "37.19873100",
@@ -15716,6 +15892,7 @@
    },
    {
       "name": "Xinjiang",
+      "arName": "شينجيانغ",
       "isoCode": "XJ",
       "countryCode": "CN",
       "latitude": "42.52463570",
@@ -15723,6 +15900,7 @@
    },
    {
       "name": "Xizang",
+      "arName": "اكسزينج",
       "isoCode": "XZ",
       "countryCode": "CN",
       "latitude": "30.15336050",
@@ -15730,6 +15908,7 @@
    },
    {
       "name": "Heilongjiang",
+      "arName": "هيلونججيانغ",
       "isoCode": "HL",
       "countryCode": "CN",
       "latitude": "47.12164720",
@@ -15737,6 +15916,7 @@
    },
    {
       "name": "Macau SAR",
+      "arName": "ماكاو سير",
       "isoCode": "MO",
       "countryCode": "CN",
       "latitude": "22.19874500",
@@ -15744,6 +15924,7 @@
    },
    {
       "name": "Hong Kong SAR",
+      "arName": "هونغ كونغ سار",
       "isoCode": "HK",
       "countryCode": "CN",
       "latitude": "22.31930390",
@@ -15751,6 +15932,7 @@
    },
    {
       "name": "Liaoning",
+      "arName": "لياونينج",
       "isoCode": "LN",
       "countryCode": "CN",
       "latitude": "41.94365430",
@@ -15758,6 +15940,7 @@
    },
    {
       "name": "Inner Mongolia",
+      "arName": "منغوليا الداخلية",
       "isoCode": "NM",
       "countryCode": "CN",
       "latitude": "43.37822000",
@@ -15765,6 +15948,7 @@
    },
    {
       "name": "Qinghai",
+      "arName": "تشينغهاي",
       "isoCode": "QH",
       "countryCode": "CN",
       "latitude": "35.74479800",
@@ -15772,6 +15956,7 @@
    },
    {
       "name": "Chongqing",
+      "arName": "تشونغتشينغ",
       "isoCode": "CQ",
       "countryCode": "CN",
       "latitude": "29.43158610",
@@ -15779,6 +15964,7 @@
    },
    {
       "name": "Shaanxi",
+      "arName": "شنشي",
       "isoCode": "SN",
       "countryCode": "CN",
       "latitude": "35.39399080",
@@ -15786,6 +15972,7 @@
    },
    {
       "name": "Hainan",
+      "arName": "هاينان",
       "isoCode": "HI",
       "countryCode": "CN",
       "latitude": "19.56639470",
@@ -15793,6 +15980,7 @@
    },
    {
       "name": "Hubei",
+      "arName": "هيبي",
       "isoCode": "HB",
       "countryCode": "CN",
       "latitude": "30.73781180",
@@ -15800,6 +15988,7 @@
    },
    {
       "name": "Gansu",
+      "arName": "غانسو",
       "isoCode": "GS",
       "countryCode": "CN",
       "latitude": "35.75183260",
@@ -15807,6 +15996,7 @@
    },
    {
       "name": "Tianjin",
+      "arName": "تيانجين",
       "isoCode": "TJ",
       "countryCode": "CN",
       "latitude": "39.12522910",
@@ -15814,6 +16004,7 @@
    },
    {
       "name": "Sichuan",
+      "arName": "سيتشوان",
       "isoCode": "SC",
       "countryCode": "CN",
       "latitude": "30.26380320",
@@ -15821,6 +16012,7 @@
    },
    {
       "name": "Guangxi Zhuang",
+      "arName": "قوانغشي تشوانغ",
       "isoCode": "GX",
       "countryCode": "CN",
       "latitude": "23.72475990",
@@ -15828,6 +16020,7 @@
    },
    {
       "name": "Guangdong",
+      "arName": "قوانغدونغ",
       "isoCode": "GD",
       "countryCode": "CN",
       "latitude": "23.37903330",
@@ -15835,6 +16028,7 @@
    },
    {
       "name": "Hebei",
+      "arName": "هيبي",
       "isoCode": "HE",
       "countryCode": "CN",
       "latitude": "37.89565940",
@@ -15898,6 +16092,7 @@
    },
    {
       "name": "Isle of Wight",
+      "arName": "جزيرة وايت",
       "isoCode": "IOW",
       "countryCode": "GB",
       "latitude": "50.69384790",
@@ -15905,6 +16100,7 @@
    },
    {
       "name": "St Helens",
+      "arName": "سانت هيلينز",
       "isoCode": "SHN",
       "countryCode": "GB",
       "latitude": "45.85896100",
@@ -15912,6 +16108,7 @@
    },
    {
       "name": "London Borough of Brent",
+      "arName": "بلدة لندن برنت",
       "isoCode": "BEN",
       "countryCode": "GB",
       "latitude": "51.56728080",
@@ -15919,6 +16116,7 @@
    },
    {
       "name": "Walsall",
+      "arName": "والسال",
       "isoCode": "WLL",
       "countryCode": "GB",
       "latitude": "52.58621400",
@@ -15926,6 +16124,7 @@
    },
    {
       "name": "Trafford",
+      "arName": "ترافورد",
       "isoCode": "TRF",
       "countryCode": "GB",
       "latitude": "40.38562460",
@@ -15933,6 +16132,7 @@
    },
    {
       "name": "City of Southampton",
+      "arName": "مدينة ساوثهامبتون",
       "isoCode": "STH",
       "countryCode": "GB",
       "latitude": "50.90970040",
@@ -15940,6 +16140,7 @@
    },
    {
       "name": "Sheffield",
+      "arName": "شيفيلد",
       "isoCode": "SHF",
       "countryCode": "GB",
       "latitude": "36.09507430",
@@ -15947,6 +16148,7 @@
    },
    {
       "name": "West Sussex",
+      "arName": "غرب ساسكس",
       "isoCode": "WSX",
       "countryCode": "GB",
       "latitude": "50.92801430",
@@ -15954,6 +16156,7 @@
    },
    {
       "name": "City of Peterborough",
+      "arName": "مدينة بيتربورو",
       "isoCode": "PTE",
       "countryCode": "GB",
       "latitude": "44.30936360",
@@ -15961,6 +16164,7 @@
    },
    {
       "name": "Caerphilly County Borough",
+      "arName": "مقاطعة كيرفيلي بورو",
       "isoCode": "CAY",
       "countryCode": "GB",
       "latitude": "51.66044650",
@@ -15968,6 +16172,7 @@
    },
    {
       "name": "Vale of Glamorgan",
+      "arName": "فالي جلامورغان",
       "isoCode": "VGL",
       "countryCode": "GB",
       "latitude": "51.40959580",
@@ -15975,6 +16180,7 @@
    },
    {
       "name": "Shetland Islands",
+      "arName": "جزر شتلاند",
       "isoCode": "ZET",
       "countryCode": "GB",
       "latitude": "60.52965070",
@@ -15982,6 +16188,7 @@
    },
    {
       "name": "Rhondda Cynon Taf",
+      "arName": "روندا سينون تاف",
       "isoCode": "RCT",
       "countryCode": "GB",
       "latitude": "51.64902070",
@@ -15989,6 +16196,7 @@
    },
    {
       "name": "Poole",
+      "arName": "بول",
       "isoCode": "POL",
       "countryCode": "GB",
       "latitude": "50.71505000",
@@ -15996,6 +16204,7 @@
    },
    {
       "name": "Central Bedfordshire",
+      "arName": "سنترال بيدفوردشاير",
       "isoCode": "CBF",
       "countryCode": "GB",
       "latitude": "52.00297440",
@@ -16003,6 +16212,7 @@
    },
    {
       "name": "Down District Council",
+      "arName": "مجلس المقاطعة",
       "isoCode": "DOW",
       "countryCode": "GB",
       "latitude": "54.24342870",
@@ -16010,6 +16220,7 @@
    },
    {
       "name": "City of Portsmouth",
+      "arName": "مدينة بورتسموث",
       "isoCode": "POR",
       "countryCode": "GB",
       "latitude": "36.83291500",
@@ -16017,6 +16228,7 @@
    },
    {
       "name": "London Borough of Haringey",
+      "arName": "بلدة لندن هارينجي",
       "isoCode": "HRY",
       "countryCode": "GB",
       "latitude": "51.59061130",
@@ -16024,6 +16236,7 @@
    },
    {
       "name": "London Borough of Bexley",
+      "arName": "بلدة لندن في بيكسلي",
       "isoCode": "BEX",
       "countryCode": "GB",
       "latitude": "51.45190210",
@@ -16031,6 +16244,7 @@
    },
    {
       "name": "Rotherham",
+      "arName": "روثرهام",
       "isoCode": "ROT",
       "countryCode": "GB",
       "latitude": "53.43260350",
@@ -16038,6 +16252,7 @@
    },
    {
       "name": "Hartlepool",
+      "arName": "هارتلبول",
       "isoCode": "HPL",
       "countryCode": "GB",
       "latitude": "54.69174500",
@@ -16045,6 +16260,7 @@
    },
    {
       "name": "Telford and Wrekin",
+      "arName": "تيلفورد وركين",
       "isoCode": "TFW",
       "countryCode": "GB",
       "latitude": "52.74099160",
@@ -16052,6 +16268,7 @@
    },
    {
       "name": "Belfast district",
+      "arName": "منطقة بلفاست",
       "isoCode": "BFS",
       "countryCode": "GB",
       "latitude": "54.61703660",
@@ -16059,6 +16276,7 @@
    },
    {
       "name": "Cornwall",
+      "arName": "كورنوال",
       "isoCode": "CON",
       "countryCode": "GB",
       "latitude": "50.26604710",
@@ -16066,6 +16284,7 @@
    },
    {
       "name": "London Borough of Sutton",
+      "arName": "بلدة لندن ساتون",
       "isoCode": "STN",
       "countryCode": "GB",
       "latitude": "51.35737620",
@@ -16073,6 +16292,7 @@
    },
    {
       "name": "Omagh District Council",
+      "arName": "مجلس مقاطعة أوماغ",
       "isoCode": "OMH",
       "countryCode": "GB",
       "latitude": "54.45135240",
@@ -16080,6 +16300,7 @@
    },
    {
       "name": "Banbridge",
+      "arName": "بانبردج",
       "isoCode": "BNB",
       "countryCode": "GB",
       "latitude": "54.34872900",
@@ -16087,6 +16308,7 @@
    },
    {
       "name": "Causeway Coast and Glens",
+      "arName": "ساحل الجسر والفلنس",
       "isoCode": "CCG",
       "countryCode": "GB",
       "latitude": "55.04318300",
@@ -16094,6 +16316,7 @@
    },
    {
       "name": "Newtownabbey Borough Council",
+      "arName": "نيو تاون اوببي بروف",
       "isoCode": "NTA",
       "countryCode": "GB",
       "latitude": "54.67924220",
@@ -16101,6 +16324,7 @@
    },
    {
       "name": "City of Leicester",
+      "arName": "مدينة ليستر",
       "isoCode": "LCE",
       "countryCode": "GB",
       "latitude": "52.63687780",
@@ -16108,6 +16332,7 @@
    },
    {
       "name": "London Borough of Islington",
+      "arName": "بلدة لندن في إيزلينغتون",
       "isoCode": "ISL",
       "countryCode": "GB",
       "latitude": "51.54650630",
@@ -16115,6 +16340,7 @@
    },
    {
       "name": "Metropolitan Borough of Wigan",
+      "arName": "البلدة الحضرية من ويجان",
       "isoCode": "WGN",
       "countryCode": "GB",
       "latitude": "53.51348120",
@@ -16122,6 +16348,7 @@
    },
    {
       "name": "Oxfordshire",
+      "arName": "أوكسفوردشاير",
       "isoCode": "OXF",
       "countryCode": "GB",
       "latitude": "51.76120560",
@@ -16129,6 +16356,7 @@
    },
    {
       "name": "Magherafelt District Council",
+      "arName":  "مجلس مقاطعة ماجهرفلت",
       "isoCode": "MFT",
       "countryCode": "GB",
       "latitude": "54.75532790",
@@ -16136,6 +16364,7 @@
    },
    {
       "name": "Southend-on-Sea",
+      "arName":  "ساوس لاند اونسي",
       "isoCode": "SOS",
       "countryCode": "GB",
       "latitude": "51.54592690",
@@ -16143,6 +16372,7 @@
    },
    {
       "name": "Armagh, Banbridge and Craigavon",
+      "arName":  "أرماغ ، بانبريدج وكريجافون",
       "isoCode": "ABC",
       "countryCode": "GB",
       "latitude": "54.39325920",
@@ -16150,6 +16380,7 @@
    },
    {
       "name": "Perth and Kinross",
+      "arName":  "بيرث و كينروس",
       "isoCode": "PKN",
       "countryCode": "GB",
       "latitude": "56.39538170",
@@ -16157,6 +16388,7 @@
    },
    {
       "name": "London Borough of Waltham Forest",
+      "arName":  "لندن بورو في فورست والثام",
       "isoCode": "WFT",
       "countryCode": "GB",
       "latitude": "51.58863830",
@@ -16164,6 +16396,7 @@
    },
    {
       "name": "Rochdale",
+      "arName":  "روشديل",
       "isoCode": "RCH",
       "countryCode": "GB",
       "latitude": "53.60971360",
@@ -16171,6 +16404,7 @@
    },
    {
       "name": "Merthyr Tydfil County Borough",
+      "arName":  "مارسر تايدفل",
       "isoCode": "MTY",
       "countryCode": "GB",
       "latitude": "51.74674740",
@@ -16178,6 +16412,7 @@
    },
    {
       "name": "Blackburn with Darwen",
+      "arName":  "بلاكبيرن مع داروين",
       "isoCode": "BBD",
       "countryCode": "GB",
       "latitude": "53.69575220",
@@ -16185,6 +16420,7 @@
    },
    {
       "name": "Knowsley",
+      "arName": "نوسلي",
       "isoCode": "KWL",
       "countryCode": "GB",
       "latitude": "53.45459400",
@@ -16192,6 +16428,7 @@
    },
    {
       "name": "Armagh City and District Council",
+      "arName": "مدينة أرماغ ومجلس المقاطعة",
       "isoCode": "ARM",
       "countryCode": "GB",
       "latitude": "54.39325920",
@@ -16199,6 +16436,7 @@
    },
    {
       "name": "Middlesbrough",
+      "arName": "مديل بروس",
       "isoCode": "MDB",
       "countryCode": "GB",
       "latitude": "54.57422700",
@@ -16206,6 +16444,7 @@
    },
    {
       "name": "East Renfrewshire",
+      "arName": "شرق رينفروشاير",
       "isoCode": "ERW",
       "countryCode": "GB",
       "latitude": "55.77047350",
@@ -16213,6 +16452,7 @@
    },
    {
       "name": "Cumbria",
+      "arName": "كمبريا",
       "isoCode": "CMA",
       "countryCode": "GB",
       "latitude": "54.57723230",
@@ -16220,6 +16460,7 @@
    },
    {
       "name": "Scotland",
+      "arName": "اسكتلندا",
       "isoCode": "SCT",
       "countryCode": "GB",
       "latitude": "56.49067120",
@@ -16227,6 +16468,7 @@
    },
    {
       "name": "England",
+      "arName": "إنكلترا",
       "isoCode": "ENG",
       "countryCode": "GB",
       "latitude": "52.35551770",
@@ -16234,6 +16476,7 @@
    },
    {
       "name": "Northern Ireland",
+      "arName": "إيرلندا الشمالية",
       "isoCode": "NIR",
       "countryCode": "GB",
       "latitude": "54.78771490",
@@ -16241,6 +16484,7 @@
    },
    {
       "name": "Wales",
+      "arName": "ويلز",
       "isoCode": "WLS",
       "countryCode": "GB",
       "latitude": "52.13066070",
@@ -16248,6 +16492,7 @@
    },
    {
       "name": "Bath and North East Somerset",
+      "arName": "باث وشمال شرق سومرست",
       "isoCode": "BAS",
       "countryCode": "GB",
       "latitude": "51.32501020",
@@ -16255,6 +16500,7 @@
    },
    {
       "name": "Liverpool",
+      "arName": "ليفربول",
       "isoCode": "LIV",
       "countryCode": "GB",
       "latitude": "32.65649810",
@@ -16262,6 +16508,7 @@
    },
    {
       "name": "Sandwell",
+      "arName": "ساندويل",
       "isoCode": "SAW",
       "countryCode": "GB",
       "latitude": "52.53616740",
@@ -16269,6 +16516,7 @@
    },
    {
       "name": "Bournemouth",
+      "arName": "بورنموث",
       "isoCode": "BMH",
       "countryCode": "GB",
       "latitude": "50.71916400",
@@ -16276,6 +16524,7 @@
    },
    {
       "name": "Isles of Scilly",
+      "arName": "جزر سيلي",
       "isoCode": "IOS",
       "countryCode": "GB",
       "latitude": "49.92772610",
@@ -16283,6 +16532,7 @@
    },
    {
       "name": "Falkirk",
+      "arName": "فالكيرك",
       "isoCode": "FAL",
       "countryCode": "GB",
       "latitude": "56.00187750",
@@ -16290,6 +16540,7 @@
    },
    {
       "name": "Dorset",
+      "arName": "دورست",
       "isoCode": "DOR",
       "countryCode": "GB",
       "latitude": "50.74876350",
@@ -16297,6 +16548,7 @@
    },
    {
       "name": "Scottish Borders",
+      "arName": "الحدود الاسكتلندية",
       "isoCode": "SCB",
       "countryCode": "GB",
       "latitude": "55.54856970",
@@ -16304,6 +16556,7 @@
    },
    {
       "name": "London Borough of Havering",
+      "arName": "بلدة لندن في هافرينج",
       "isoCode": "HAV",
       "countryCode": "GB",
       "latitude": "51.57792400",
@@ -16311,6 +16564,7 @@
    },
    {
       "name": "Moyle District Council",
+      "arName": "مجلس مقاطعة مويل",
       "isoCode": "MYL",
       "countryCode": "GB",
       "latitude": "55.20473270",
@@ -16318,6 +16572,7 @@
    },
    {
       "name": "London Borough of Camden",
+      "arName": "بلدة لندن كامدن",
       "isoCode": "CMD",
       "countryCode": "GB",
       "latitude": "51.54547360",
@@ -16325,6 +16580,7 @@
    },
    {
       "name": "Newry and Mourne District Council",
+      "arName": "مجلس مقاطعة نيري ومورن",
       "isoCode": "NYM",
       "countryCode": "GB",
       "latitude": "54.17425050",
@@ -16332,6 +16588,7 @@
    },
    {
       "name": "Neath Port Talbot County Borough",
+      "arName": "نيلز بورت",
       "isoCode": "NTL",
       "countryCode": "GB",
       "latitude": "51.59785190",
@@ -16339,6 +16596,7 @@
    },
    {
       "name": "Conwy County Borough",
+      "arName": "مقاطعة كونوي بورو",
       "isoCode": "CWY",
       "countryCode": "GB",
       "latitude": "53.29350130",
@@ -16346,6 +16604,7 @@
    },
    {
       "name": "Outer Hebrides",
+      "arName":  "أوتر هيبريدز",
       "isoCode": "ELS",
       "countryCode": "GB",
       "latitude": "57.75989180",
@@ -16353,6 +16612,7 @@
    },
    {
       "name": "West Lothian",
+      "arName":  "لوثيان الغربية",
       "isoCode": "WLN",
       "countryCode": "GB",
       "latitude": "55.90701980",
@@ -16360,6 +16620,7 @@
    },
    {
       "name": "Lincolnshire",
+      "arName":  "لينكولنشاير",
       "isoCode": "LIN",
       "countryCode": "GB",
       "latitude": "52.94518890",
@@ -16367,6 +16628,7 @@
    },
    {
       "name": "London Borough of Barking and Dagenham",
+      "arName":  "ينبح وداجنهام",
       "isoCode": "BDG",
       "countryCode": "GB",
       "latitude": "51.55406660",
@@ -16374,6 +16636,7 @@
    },
    {
       "name": "City of Westminster",
+      "arName":  "مدينة وستمنستر",
       "isoCode": "WSM",
       "countryCode": "GB",
       "latitude": "39.57659770",
@@ -16381,6 +16644,7 @@
    },
    {
       "name": "London Borough of Lewisham",
+      "arName":  "لويشام",
       "isoCode": "LEW",
       "countryCode": "GB",
       "latitude": "51.44145790",
@@ -16388,6 +16652,7 @@
    },
    {
       "name": "City of Nottingham",
+      "arName":  "مدينة نوتنغهام",
       "isoCode": "NGM",
       "countryCode": "GB",
       "latitude": "52.95478320",
@@ -16395,6 +16660,7 @@
    },
    {
       "name": "Moray",
+      "arName":  "موراي",
       "isoCode": "MRY",
       "countryCode": "GB",
       "latitude": "57.64984760",
@@ -16402,6 +16668,7 @@
    },
    {
       "name": "Ballymoney",
+      "arName":  "بالمني",
       "isoCode": "BLY",
       "countryCode": "GB",
       "latitude": "55.07048880",
@@ -16409,6 +16676,7 @@
    },
    {
       "name": "South Lanarkshire",
+      "arName":  "جنوب لاناركشاير",
       "isoCode": "SLK",
       "countryCode": "GB",
       "latitude": "55.67359090",
@@ -16416,6 +16684,7 @@
    },
    {
       "name": "Ballymena Borough",
+      "arName": "باليمينا بورو",
       "isoCode": "BLA",
       "countryCode": "GB",
       "latitude": "54.86426000",
@@ -16423,6 +16692,7 @@
    },
    {
       "name": "Doncaster",
+      "arName": "دونكاستر",
       "isoCode": "DNC",
       "countryCode": "GB",
       "latitude": "53.52282000",
@@ -16430,6 +16700,7 @@
    },
    {
       "name": "Northumberland",
+      "arName": "نورثمبرلاند",
       "isoCode": "NBL",
       "countryCode": "GB",
       "latitude": "55.20825420",
@@ -16437,6 +16708,7 @@
    },
    {
       "name": "Fermanagh and Omagh",
+      "arName": "أمجا وفيرمانجا",
       "isoCode": "FMO",
       "countryCode": "GB",
       "latitude": "54.45135240",
@@ -16444,6 +16716,7 @@
    },
    {
       "name": "Tameside",
+      "arName": "تامسيد",
       "isoCode": "TAM",
       "countryCode": "GB",
       "latitude": "53.48058280",
@@ -16451,6 +16724,7 @@
    },
    {
       "name": "Royal Borough of Kensington and Chelsea",
+      "arName": "البلدة الملكية لكينسينغتون وتشيلسي",
       "isoCode": "KEC",
       "countryCode": "GB",
       "latitude": "51.49908050",
@@ -16458,6 +16732,7 @@
    },
    {
       "name": "Hertfordshire",
+      "arName": "هيرتفوردشاير",
       "isoCode": "HRT",
       "countryCode": "GB",
       "latitude": "51.80978230",
@@ -16465,6 +16740,7 @@
    },
    {
       "name": "East Riding of Yorkshire",
+      "arName":  "شرق ركوب يوركشاير",
       "isoCode": "ERY",
       "countryCode": "GB",
       "latitude": "53.84161680",
@@ -16472,6 +16748,7 @@
    },
    {
       "name": "Kirklees",
+      "arName":  "كيركليس",
       "isoCode": "KIR",
       "countryCode": "GB",
       "latitude": "53.59334320",
@@ -16479,6 +16756,7 @@
    },
    {
       "name": "City of Sunderland",
+      "arName":  "مدينة سندرلاند",
       "isoCode": "SND",
       "countryCode": "GB",
       "latitude": "54.88614890",
@@ -16486,6 +16764,7 @@
    },
    {
       "name": "Gloucestershire",
+      "arName":  "جلوشترشير",
       "isoCode": "GLS",
       "countryCode": "GB",
       "latitude": "51.86421120",
@@ -16493,6 +16772,7 @@
    },
    {
       "name": "East Ayrshire",
+      "arName":  "شرق أيرشاير",
       "isoCode": "EAY",
       "countryCode": "GB",
       "latitude": "55.45184960",
@@ -16500,6 +16780,7 @@
    },
    {
       "name": "United Kingdom",
+      "arName":  "المملكة المتحدة",
       "isoCode": "UKM",
       "countryCode": "GB",
       "latitude": "55.37805100",
@@ -16507,6 +16788,7 @@
    },
    {
       "name": "London Borough of Hillingdon",
+      "arName":  "بلدة لندن هيلنغدون",
       "isoCode": "HIL",
       "countryCode": "GB",
       "latitude": "51.53518320",
@@ -16514,6 +16796,7 @@
    },
    {
       "name": "South Ayrshire",
+      "arName":  "جنوب أيرشاير",
       "isoCode": "SAY",
       "countryCode": "GB",
       "latitude": "55.45889880",
@@ -16521,6 +16804,7 @@
    },
    {
       "name": "Ascension Island",
+      "arName":  "جزيرة الصعود",
       "isoCode": "SH-AC",
       "countryCode": "GB",
       "latitude": "-7.94671660",
@@ -16528,6 +16812,7 @@
    },
    {
       "name": "Gwynedd",
+      "arName":  "جوند",
       "isoCode": "GWN",
       "countryCode": "GB",
       "latitude": "52.92772660",
@@ -16535,6 +16820,7 @@
    },
    {
       "name": "London Borough of Hounslow",
+      "arName":   "بلدة لندن من هونسلو",
       "isoCode": "HNS",
       "countryCode": "GB",
       "latitude": "51.48283580",
@@ -16542,6 +16828,7 @@
    },
    {
       "name": "Medway",
+      "arName":   "ميدواي",
       "isoCode": "MDW",
       "countryCode": "GB",
       "latitude": "42.14176410",
@@ -16549,6 +16836,7 @@
    },
    {
       "name": "Limavady Borough Council",
+      "arName":   "مجلس مدينة ليمافادي",
       "isoCode": "LMV",
       "countryCode": "GB",
       "latitude": "55.05168200",
@@ -16556,6 +16844,7 @@
    },
    {
       "name": "Highland",
+      "arName":   "هايلند",
       "isoCode": "HLD",
       "countryCode": "GB",
       "latitude": "36.29675080",
@@ -16563,6 +16852,7 @@
    },
    {
       "name": "North East Lincolnshire",
+      "arName":   "شمال شرق لينكولنشاير",
       "isoCode": "NEL",
       "countryCode": "GB",
       "latitude": "53.56682010",
@@ -16570,6 +16860,7 @@
    },
    {
       "name": "London Borough of Harrow",
+      "arName":   "بلدة لندن هارو",
       "isoCode": "HRW",
       "countryCode": "GB",
       "latitude": "51.58816270",
@@ -16577,6 +16868,7 @@
    },
    {
       "name": "Somerset",
+      "arName":  "سومرست",
       "isoCode": "SOM",
       "countryCode": "GB",
       "latitude": "51.10509700",
@@ -16584,6 +16876,7 @@
    },
    {
       "name": "Angus",
+      "arName":  "أنجوس",
       "isoCode": "ANS",
       "countryCode": "GB",
       "latitude": "37.27578860",
@@ -16591,6 +16884,7 @@
    },
    {
       "name": "Inverclyde",
+      "arName":  "انفرسيلد",
       "isoCode": "IVC",
       "countryCode": "GB",
       "latitude": "55.93165690",
@@ -16598,6 +16892,7 @@
    },
    {
       "name": "Darlington",
+      "arName":  "دارلينجتون",
       "isoCode": "DAL",
       "countryCode": "GB",
       "latitude": "34.29987620",
@@ -16605,6 +16900,7 @@
    },
    {
       "name": "London Borough of Tower Hamlets",
+      "arName":  "بلدة لندن من تاور هاملتس",
       "isoCode": "TWH",
       "countryCode": "GB",
       "latitude": "51.52026070",
@@ -16612,6 +16908,7 @@
    },
    {
       "name": "Wiltshire",
+      "arName":  "ويلتشاير",
       "isoCode": "WIL",
       "countryCode": "GB",
       "latitude": "51.34919960",
@@ -16619,6 +16916,7 @@
    },
    {
       "name": "Argyll and Bute",
+      "arName":  "أرجيل وبوت",
       "isoCode": "AGB",
       "countryCode": "GB",
       "latitude": "56.40062140",
@@ -16626,6 +16924,7 @@
    },
    {
       "name": "Strabane District Council",
+      "arName":  "مجلس مقاطعة سترابان",
       "isoCode": "STB",
       "countryCode": "GB",
       "latitude": "54.82738650",
@@ -16633,6 +16932,7 @@
    },
    {
       "name": "Stockport",
+      "arName":  "ستوك بورت",
       "isoCode": "SKP",
       "countryCode": "GB",
       "latitude": "53.41063160",
@@ -16640,6 +16940,7 @@
    },
    {
       "name": "Brighton and Hove",
+      "arName":  "برايتون وهوف",
       "isoCode": "BNH",
       "countryCode": "GB",
       "latitude": "50.82262880",
@@ -16647,6 +16948,7 @@
    },
    {
       "name": "London Borough of Lambeth",
+      "arName":  "بلدة لامبيث",
       "isoCode": "LBH",
       "countryCode": "GB",
       "latitude": "51.45714770",
@@ -16654,6 +16956,7 @@
    },
    {
       "name": "London Borough of Redbridge",
+      "arName":  "ريد بردج",
       "isoCode": "RDB",
       "countryCode": "GB",
       "latitude": "51.58861210",
@@ -16661,6 +16964,7 @@
    },
    {
       "name": "Manchester",
+      "arName":  "مانشستر",
       "isoCode": "MAN",
       "countryCode": "GB",
       "latitude": "53.48075930",
@@ -16668,6 +16972,7 @@
    },
    {
       "name": "Mid Ulster",
+      "arName":  "ميد أولستر",
       "isoCode": "MUL",
       "countryCode": "GB",
       "latitude": "54.64113010",
@@ -16675,6 +16980,7 @@
    },
    {
       "name": "South Gloucestershire",
+      "arName":  "جنوب غلوسيسترشاير",
       "isoCode": "SGC",
       "countryCode": "GB",
       "latitude": "51.52643610",
@@ -16682,6 +16988,7 @@
    },
    {
       "name": "Aberdeenshire",
+      "arName":  "أبردينشاير",
       "isoCode": "ABD",
       "countryCode": "GB",
       "latitude": "57.28687230",
@@ -16689,6 +16996,7 @@
    },
    {
       "name": "Monmouthshire",
+      "arName":  "مونماوثشاير",
       "isoCode": "MON",
       "countryCode": "GB",
       "latitude": "51.81161000",
@@ -16696,6 +17004,7 @@
    },
    {
       "name": "Derbyshire",
+      "arName":  "ديربيشاير",
       "isoCode": "DBY",
       "countryCode": "GB",
       "latitude": "53.10467820",
@@ -16703,6 +17012,7 @@
    },
    {
       "name": "Glasgow",
+      "arName":  "غلاسكو",
       "isoCode": "GLG",
       "countryCode": "GB",
       "latitude": "55.86423700",
@@ -16710,6 +17020,7 @@
    },
    {
       "name": "Buckinghamshire",
+      "arName":  "باكنجهامشاير",
       "isoCode": "BKM",
       "countryCode": "GB",
       "latitude": "51.80722040",
@@ -16717,6 +17028,7 @@
    },
    {
       "name": "County Durham",
+      "arName":  "مقاطعة دورهام",
       "isoCode": "DUR",
       "countryCode": "GB",
       "latitude": "54.72940990",
@@ -16724,6 +17036,7 @@
    },
    {
       "name": "Shropshire",
+      "arName":  "شروبشاير",
       "isoCode": "SHR",
       "countryCode": "GB",
       "latitude": "52.70636570",
@@ -16731,6 +17044,7 @@
    },
    {
       "name": "Wirral",
+      "arName":  "ويرال",
       "isoCode": "WRL",
       "countryCode": "GB",
       "latitude": "53.37271810",
@@ -16738,6 +17052,7 @@
    },
    {
       "name": "South Tyneside",
+      "arName":  "جنوب تينيسايد",
       "isoCode": "STY",
       "countryCode": "GB",
       "latitude": "54.96366930",
@@ -16745,6 +17060,7 @@
    },
    {
       "name": "Essex",
+      "arName":  "إسيكس",
       "isoCode": "ESS",
       "countryCode": "GB",
       "latitude": "51.57424470",
@@ -16752,6 +17068,7 @@
    },
    {
       "name": "London Borough of Hackney",
+      "arName":  "البلدة هاكني",
       "isoCode": "HCK",
       "countryCode": "GB",
       "latitude": "51.57344500",
@@ -16759,6 +17076,7 @@
    },
    {
       "name": "Antrim and Newtownabbey",
+      "arName":  "أنتريم و نيوتاون",
       "isoCode": "ANN",
       "countryCode": "GB",
       "latitude": "54.69568870",
@@ -16766,6 +17084,7 @@
    },
    {
       "name": "City of Bristol",
+      "arName":  "مدينة بريستول",
       "isoCode": "BST",
       "countryCode": "GB",
       "latitude": "41.67352200",
@@ -16773,6 +17092,7 @@
    },
    {
       "name": "East Sussex",
+      "arName":  "شرق ساسكس",
       "isoCode": "ESX",
       "countryCode": "GB",
       "latitude": "50.90859550",
@@ -16780,6 +17100,7 @@
    },
    {
       "name": "Dumfries and Galloway",
+      "arName":  "دومفريز و غالواي",
       "isoCode": "DGY",
       "countryCode": "GB",
       "latitude": "55.07010730",
@@ -16787,6 +17108,7 @@
    },
    {
       "name": "Milton Keynes",
+      "arName":  "ميلتون كينز",
       "isoCode": "MIK",
       "countryCode": "GB",
       "latitude": "52.08520380",
@@ -16794,6 +17116,7 @@
    },
    {
       "name": "Derry City Council",
+      "arName":  "مجلس مدينة ديري",
       "isoCode": "DRY",
       "countryCode": "GB",
       "latitude": "54.96907780",
@@ -16801,6 +17124,7 @@
    },
    {
       "name": "London Borough of Newham",
+      "arName":  "البلدة نيوهام",
       "isoCode": "NWM",
       "countryCode": "GB",
       "latitude": "51.52551620",
@@ -16808,6 +17132,7 @@
    },
    {
       "name": "Wokingham",
+      "arName":  "ووكينجهام",
       "isoCode": "WOK",
       "countryCode": "GB",
       "latitude": "51.41045700",
@@ -16815,6 +17140,7 @@
    },
    {
       "name": "Warrington",
+      "arName":  "وارينغتون",
       "isoCode": "WRT",
       "countryCode": "GB",
       "latitude": "40.24927410",
@@ -16822,6 +17148,7 @@
    },
    {
       "name": "Stockton-on-Tees",
+      "arName":  "ستوكتون تيسس",
       "isoCode": "STT",
       "countryCode": "GB",
       "latitude": "54.57045510",
@@ -16829,6 +17156,7 @@
    },
    {
       "name": "Swindon",
+      "arName":  "سويندون",
       "isoCode": "SWD",
       "countryCode": "GB",
       "latitude": "51.55577390",
@@ -16836,6 +17164,7 @@
    },
    {
       "name": "Cambridgeshire",
+      "arName":  "كامبريدجيسر",
       "isoCode": "CAM",
       "countryCode": "GB",
       "latitude": "52.20529730",
@@ -16843,6 +17172,7 @@
    },
    {
       "name": "City of London",
+      "arName":  "مدينة لندن",
       "isoCode": "LND",
       "countryCode": "GB",
       "latitude": "51.51234430",
@@ -16850,6 +17180,7 @@
    },
    {
       "name": "Birmingham",
+      "arName":  "برمنغهام",
       "isoCode": "BIR",
       "countryCode": "GB",
       "latitude": "33.51858920",
@@ -16857,6 +17188,7 @@
    },
    {
       "name": "City of York",
+      "arName":  "مدينة يورك",
       "isoCode": "YOR",
       "countryCode": "GB",
       "latitude": "53.95996510",
@@ -16864,6 +17196,7 @@
    },
    {
       "name": "Slough",
+      "arName":  "سلو",
       "isoCode": "SLG",
       "countryCode": "GB",
       "latitude": "51.51053840",
@@ -16871,6 +17204,7 @@
    },
    {
       "name": "Edinburgh",
+      "arName":  "أدنبرة",
       "isoCode": "EDH",
       "countryCode": "GB",
       "latitude": "55.95325200",
@@ -16878,6 +17212,7 @@
    },
    {
       "name": "Mid and East Antrim",
+      "arName":  "أنتريم",
       "isoCode": "MEA",
       "countryCode": "GB",
       "latitude": "54.93993410",
@@ -16885,6 +17220,7 @@
    },
    {
       "name": "North Somerset",
+      "arName":  "سومرست",
       "isoCode": "NSM",
       "countryCode": "GB",
       "latitude": "51.38790280",
@@ -16892,6 +17228,7 @@
    },
    {
       "name": "Gateshead",
+      "arName":  "جيتسهيد",
       "isoCode": "GAT",
       "countryCode": "GB",
       "latitude": "54.95268000",
@@ -16899,6 +17236,7 @@
    },
    {
       "name": "London Borough of Southwark",
+      "arName":  "البلدة من ساوثوارك",
       "isoCode": "SWK",
       "countryCode": "GB",
       "latitude": "51.48805720",
@@ -16906,6 +17244,7 @@
    },
    {
       "name": "City and County of Swansea",
+      "arName":  "مقاطعة سوانسي",
       "isoCode": "SWA",
       "countryCode": "GB",
       "latitude": "51.62144000",
@@ -16913,6 +17252,7 @@
    },
    {
       "name": "London Borough of Wandsworth",
+      "arName":   "بلدة لندن واندسوورث",
       "isoCode": "WND",
       "countryCode": "GB",
       "latitude": "51.45682740",
@@ -16920,6 +17260,7 @@
    },
    {
       "name": "Hampshire",
+      "arName":   "هامبشاير",
       "isoCode": "HAM",
       "countryCode": "GB",
       "latitude": "51.05769480",
@@ -16927,6 +17268,7 @@
    },
    {
       "name": "Wrexham County Borough",
+      "arName":    "مقاطعة وركسهام",
       "isoCode": "WRX",
       "countryCode": "GB",
       "latitude": "53.03013780",
@@ -16934,6 +17276,7 @@
    },
    {
       "name": "Flintshire",
+      "arName":    "فلينتشاير",
       "isoCode": "FLN",
       "countryCode": "GB",
       "latitude": "53.16686580",
@@ -16941,6 +17284,7 @@
    },
    {
       "name": "Coventry",
+      "arName":    "كوفنتري",
       "isoCode": "COV",
       "countryCode": "GB",
       "latitude": "52.40682200",
@@ -16948,6 +17292,7 @@
    },
    {
       "name": "Carrickfergus Borough Council",
+      "arName":    "مجلس كركفرجس",
       "isoCode": "CKF",
       "countryCode": "GB",
       "latitude": "54.72568430",
@@ -16955,6 +17300,7 @@
    },
    {
       "name": "West Dunbartonshire",
+      "arName":    "ويست دنبرتونشاير",
       "isoCode": "WDU",
       "countryCode": "GB",
       "latitude": "55.94509250",
@@ -16962,6 +17308,7 @@
    },
    {
       "name": "Powys",
+      "arName":  "بويس",
       "isoCode": "POW",
       "countryCode": "GB",
       "latitude": "52.64642490",
@@ -16969,6 +17316,7 @@
    },
    {
       "name": "Cheshire West and Chester",
+      "arName":  "شيشاير ويست وتشيستر",
       "isoCode": "CHW",
       "countryCode": "GB",
       "latitude": "53.23029740",
@@ -16976,6 +17324,7 @@
    },
    {
       "name": "Renfrewshire",
+      "arName":  "رنفرشير",
       "isoCode": "RFW",
       "countryCode": "GB",
       "latitude": "55.84665400",
@@ -16983,6 +17332,7 @@
    },
    {
       "name": "Cheshire East",
+      "arName":  "شيشاير الشرقية",
       "isoCode": "CHE",
       "countryCode": "GB",
       "latitude": "53.16104460",
@@ -16990,6 +17340,7 @@
    },
    {
       "name": "Cookstown District Council",
+      "arName":  "مجلس مقاطعة كوكستاون",
       "isoCode": "CKT",
       "countryCode": "GB",
       "latitude": "54.64181580",
@@ -16997,6 +17348,7 @@
    },
    {
       "name": "Derry City and Strabane",
+      "arName":  "ديري سيتي وسترابان",
       "isoCode": "DRS",
       "countryCode": "GB",
       "latitude": "55.00474430",
@@ -17004,6 +17356,7 @@
    },
    {
       "name": "Staffordshire",
+      "arName":  "ستافوردشاير",
       "isoCode": "STS",
       "countryCode": "GB",
       "latitude": "52.87927450",
@@ -17011,6 +17364,7 @@
    },
    {
       "name": "London Borough of Hammersmith and Fulham",
+      "arName":  "هامرسميث وفولهام",
       "isoCode": "HMF",
       "countryCode": "GB",
       "latitude": "51.49901560",
@@ -17018,6 +17372,7 @@
    },
    {
       "name": "Craigavon Borough Council",
+      "arName":  "مجلس كريجافون",
       "isoCode": "CGV",
       "countryCode": "GB",
       "latitude": "54.39325920",
@@ -17025,6 +17380,7 @@
    },
    {
       "name": "Clackmannanshire",
+      "arName":  "كلاكمانانشاير",
       "isoCode": "CLK",
       "countryCode": "GB",
       "latitude": "56.10753510",
@@ -17032,6 +17388,7 @@
    },
    {
       "name": "Blackpool",
+      "arName":  "بلاكبول",
       "isoCode": "BPL",
       "countryCode": "GB",
       "latitude": "53.81750530",
@@ -17039,6 +17396,7 @@
    },
    {
       "name": "Bridgend County Borough",
+      "arName":  "مقاطعة بريدجند",
       "isoCode": "BGE",
       "countryCode": "GB",
       "latitude": "51.50831990",
@@ -17046,6 +17404,7 @@
    },
    {
       "name": "North Lincolnshire",
+      "arName": "شمال لينكولنشاير",
       "isoCode": "NLN",
       "countryCode": "GB",
       "latitude": "53.60555920",
@@ -17053,6 +17412,7 @@
    },
    {
       "name": "East Dunbartonshire",
+      "arName": "شرق دنبرتونشاير",
       "isoCode": "EDU",
       "countryCode": "GB",
       "latitude": "55.97431620",
@@ -17060,6 +17420,7 @@
    },
    {
       "name": "Reading",
+      "arName": "قراءة",
       "isoCode": "RDG",
       "countryCode": "GB",
       "latitude": "36.14866590",
@@ -17067,6 +17428,7 @@
    },
    {
       "name": "Nottinghamshire",
+      "arName": "نوتنغهامشاير",
       "isoCode": "NTT",
       "countryCode": "GB",
       "latitude": "53.10031900",
@@ -17074,6 +17436,7 @@
    },
    {
       "name": "Dudley",
+      "arName": "دودلي",
       "isoCode": "DUD",
       "countryCode": "GB",
       "latitude": "42.04336610",
@@ -17081,6 +17444,7 @@
    },
    {
       "name": "Newcastle upon Tyne",
+      "arName": "نيوكاسل على تاين",
       "isoCode": "NET",
       "countryCode": "GB",
       "latitude": "54.97825200",
@@ -17088,6 +17452,7 @@
    },
    {
       "name": "Bury",
+      "arName": "بري",
       "isoCode": "BUR",
       "countryCode": "GB",
       "latitude": "53.59334980",
@@ -17095,6 +17460,7 @@
    },
    {
       "name": "Lisburn and Castlereagh",
+      "arName": "ليسبورن وكاستليه",
       "isoCode": "LBC",
       "countryCode": "GB",
       "latitude": "54.49815840",
@@ -17102,6 +17468,7 @@
    },
    {
       "name": "Coleraine Borough Council",
+      "arName": "كوليرين بورو",
       "isoCode": "CLR",
       "countryCode": "GB",
       "latitude": "55.14515700",
@@ -17109,6 +17476,7 @@
    },
    {
       "name": "East Lothian",
+      "arName": "شرق لوثيان",
       "isoCode": "ELN",
       "countryCode": "GB",
       "latitude": "55.94933830",
@@ -17116,6 +17484,7 @@
    },
    {
       "name": "Aberdeen",
+      "arName": "أبردين",
       "isoCode": "ABE",
       "countryCode": "GB",
       "latitude": "57.14971700",
@@ -17123,6 +17492,7 @@
    },
    {
       "name": "Kent",
+      "arName": "كينت",
       "isoCode": "KEN",
       "countryCode": "GB",
       "latitude": "41.15366740",
@@ -17130,6 +17500,7 @@
    },
    {
       "name": "Wakefield",
+      "arName":  "ويكفيلد",
       "isoCode": "WKF",
       "countryCode": "GB",
       "latitude": "42.50393950",
@@ -17137,6 +17508,7 @@
    },
    {
       "name": "Halton",
+      "arName":  "هالتون",
       "isoCode": "HAL",
       "countryCode": "GB",
       "latitude": "43.53253720",
@@ -17144,6 +17516,7 @@
    },
    {
       "name": "Suffolk",
+      "arName":  "سوفولك",
       "isoCode": "SFK",
       "countryCode": "GB",
       "latitude": "52.18724720",
@@ -17151,6 +17524,7 @@
    },
    {
       "name": "Thurrock",
+      "arName":  "ثوروك",
       "isoCode": "THR",
       "countryCode": "GB",
       "latitude": "51.49345570",
@@ -17158,6 +17532,7 @@
    },
    {
       "name": "Solihull",
+      "arName":  "سوليهول",
       "isoCode": "SOL",
       "countryCode": "GB",
       "latitude": "52.41181100",
@@ -17165,6 +17540,7 @@
    },
    {
       "name": "Bracknell Forest",
+      "arName":  "غابة براكينيل",
       "isoCode": "BRC",
       "countryCode": "GB",
       "latitude": "51.41538280",
@@ -17172,6 +17548,7 @@
    },
    {
       "name": "West Berkshire",
+      "arName":  "غرب بيركشاير",
       "isoCode": "WBK",
       "countryCode": "GB",
       "latitude": "51.43082550",
@@ -17179,6 +17556,7 @@
    },
    {
       "name": "Rutland",
+      "arName":  "روتلاند",
       "isoCode": "RUT",
       "countryCode": "GB",
       "latitude": "43.61062370",
@@ -17186,6 +17564,7 @@
    },
    {
       "name": "Norfolk",
+      "arName":  "نورفولك",
       "isoCode": "NFK",
       "countryCode": "GB",
       "latitude": "36.85076890",
@@ -17193,6 +17572,7 @@
    },
    {
       "name": "Orkney Islands",
+      "arName":  "جزر أوركني",
       "isoCode": "ORK",
       "countryCode": "GB",
       "latitude": "58.98094010",
@@ -17200,6 +17580,7 @@
    },
    {
       "name": "City of Kingston upon Hull",
+      "arName":  "كينغستون هال",
       "isoCode": "KHL",
       "countryCode": "GB",
       "latitude": "53.76762360",
@@ -17207,6 +17588,7 @@
    },
    {
       "name": "London Borough of Enfield",
+      "arName":  "إنفيلد",
       "isoCode": "ENF",
       "countryCode": "GB",
       "latitude": "51.66229090",
@@ -17214,6 +17596,7 @@
    },
    {
       "name": "Oldham",
+      "arName":  "اولدهام",
       "isoCode": "OLD",
       "countryCode": "GB",
       "latitude": "42.20405980",
@@ -17221,6 +17604,7 @@
    },
    {
       "name": "Torbay",
+      "arName":  "تورباي",
       "isoCode": "TOB",
       "countryCode": "GB",
       "latitude": "50.43923290",
@@ -17228,6 +17612,7 @@
    },
    {
       "name": "Fife",
+      "arName":  "فايف",
       "isoCode": "FIF",
       "countryCode": "GB",
       "latitude": "56.20820780",
@@ -17235,6 +17620,7 @@
    },
    {
       "name": "Northamptonshire",
+      "arName":  "نورثهامبتونشاير",
       "isoCode": "NTH",
       "countryCode": "GB",
       "latitude": "52.27299440",
@@ -17242,6 +17628,7 @@
    },
    {
       "name": "Royal Borough of Kingston upon Thames",
+      "arName":  "كينغستون اوبن التايمز",
       "isoCode": "KTT",
       "countryCode": "GB",
       "latitude": "51.37811700",
@@ -17249,6 +17636,7 @@
    },
    {
       "name": "Windsor and Maidenhead",
+      "arName":  "وندسور وبكرهيد",
       "isoCode": "WNM",
       "countryCode": "GB",
       "latitude": "51.47997120",
@@ -17256,6 +17644,7 @@
    },
    {
       "name": "London Borough of Merton",
+      "arName":  "بلدة ميرتون",
       "isoCode": "MRT",
       "countryCode": "GB",
       "latitude": "51.40977420",
@@ -17263,6 +17652,7 @@
    },
    {
       "name": "Carmarthenshire",
+      "arName":  "كارمارثينشاير",
       "isoCode": "CMN",
       "countryCode": "GB",
       "latitude": "51.85723090",
@@ -17270,6 +17660,7 @@
    },
    {
       "name": "City of Derby",
+      "arName":  "مدينة ديربي",
       "isoCode": "DER",
       "countryCode": "GB",
       "latitude": "37.54837550",
@@ -17277,6 +17668,7 @@
    },
    {
       "name": "Pembrokeshire",
+      "arName":  "بيمبروكشاير",
       "isoCode": "PEM",
       "countryCode": "GB",
       "latitude": "51.67407800",
@@ -17284,6 +17676,7 @@
    },
    {
       "name": "North Lanarkshire",
+      "arName":  "شمال لاناركشاير",
       "isoCode": "NLK",
       "countryCode": "GB",
       "latitude": "55.86624320",
@@ -17291,6 +17684,7 @@
    },
    {
       "name": "Stirling",
+      "arName":  "ستيرلنغ",
       "isoCode": "STG",
       "countryCode": "GB",
       "latitude": "56.11652270",
@@ -17298,6 +17692,7 @@
    },
    {
       "name": "City of Wolverhampton",
+      "arName":  "ولفرهامبتون",
       "isoCode": "WLV",
       "countryCode": "GB",
       "latitude": "52.58891200",
@@ -17305,6 +17700,7 @@
    },
    {
       "name": "London Borough of Bromley",
+      "arName":  "بلدة من بروملي",
       "isoCode": "BRY",
       "countryCode": "GB",
       "latitude": "51.36797050",
@@ -17312,6 +17708,7 @@
    },
    {
       "name": "Devon",
+      "arName":  "ديفون",
       "isoCode": "DEV",
       "countryCode": "GB",
       "latitude": "50.71555910",
@@ -17319,6 +17716,7 @@
    },
    {
       "name": "Royal Borough of Greenwich",
+      "arName":  "بلدة غرينتش",
       "isoCode": "GRE",
       "countryCode": "GB",
       "latitude": "51.48346270",
@@ -17326,6 +17724,7 @@
    },
    {
       "name": "Salford",
+      "arName":  "سالفورد",
       "isoCode": "SLF",
       "countryCode": "GB",
       "latitude": "53.48752350",
@@ -17333,6 +17732,7 @@
    },
    {
       "name": "Lisburn City Council",
+      "arName":  "مجلس مدينة ليسبورن",
       "isoCode": "LSB",
       "countryCode": "GB",
       "latitude": "54.49815840",
@@ -17340,6 +17740,7 @@
    },
    {
       "name": "Lancashire",
+      "arName":  "لانكشاير",
       "isoCode": "LAN",
       "countryCode": "GB",
       "latitude": "53.76322540",
@@ -17347,6 +17748,7 @@
    },
    {
       "name": "Torfaen",
+      "arName":  "تورفين",
       "isoCode": "TOF",
       "countryCode": "GB",
       "latitude": "51.70022530",
@@ -17354,6 +17756,7 @@
    },
    {
       "name": "Denbighshire",
+      "arName":  "دنبشير",
       "isoCode": "DEN",
       "countryCode": "GB",
       "latitude": "53.18422880",
@@ -17361,6 +17764,7 @@
    },
    {
       "name": "Ards",
+      "arName":  "أردس",
       "isoCode": "ARD",
       "countryCode": "GB",
       "latitude": "42.13918510",
@@ -17368,6 +17772,7 @@
    },
    {
       "name": "Barnsley",
+      "arName":  "بارنسلي",
       "isoCode": "BNS",
       "countryCode": "GB",
       "latitude": "34.29949560",
@@ -17375,6 +17780,7 @@
    },
    {
       "name": "Herefordshire",
+      "arName":  "هيرفوردشاير",
       "isoCode": "HEF",
       "countryCode": "GB",
       "latitude": "52.07651640",
@@ -17382,6 +17788,7 @@
    },
    {
       "name": "London Borough of Richmond upon Thames",
+      "arName":  "ريتشموند اوبن تايمز",
       "isoCode": "RIC",
       "countryCode": "GB",
       "latitude": "51.46130540",
@@ -17389,6 +17796,7 @@
    },
    {
       "name": "Saint Helena",
+      "arName":  "ساينت هيلينا",
       "isoCode": "SH-HL",
       "countryCode": "GB",
       "latitude": "-15.96501040",
@@ -17396,6 +17804,7 @@
    },
    {
       "name": "Leeds",
+      "arName":  "ليدز",
       "isoCode": "LDS",
       "countryCode": "GB",
       "latitude": "53.80075540",
@@ -17403,6 +17812,7 @@
    },
    {
       "name": "Bolton",
+      "arName":  "بولتون",
       "isoCode": "BOL",
       "countryCode": "GB",
       "latitude": "44.37264760",
@@ -17410,6 +17820,7 @@
    },
    {
       "name": "Warwickshire",
+      "arName":  "وارويكشاير",
       "isoCode": "WAR",
       "countryCode": "GB",
       "latitude": "52.26713530",
@@ -17417,6 +17828,7 @@
    },
    {
       "name": "City of Stoke-on-Trent",
+      "arName":  "ستوك أون ترينت",
       "isoCode": "STE",
       "countryCode": "GB",
       "latitude": "53.00266800",
@@ -17424,6 +17836,7 @@
    },
    {
       "name": "Bedford",
+      "arName":  "بيدفورد",
       "isoCode": "BDF",
       "countryCode": "GB",
       "latitude": "32.84401700",
@@ -17431,6 +17844,7 @@
    },
    {
       "name": "Dungannon and South Tyrone Borough Council",
+      "arName":  "دنغانون و جنوب تيرون",
       "isoCode": "DGN",
       "countryCode": "GB",
       "latitude": "54.50826840",
@@ -17438,6 +17852,7 @@
    },
    {
       "name": "Ceredigion",
+      "arName":  "كيردجون",
       "isoCode": "CGN",
       "countryCode": "GB",
       "latitude": "52.21914290",
@@ -17445,6 +17860,7 @@
    },
    {
       "name": "Worcestershire",
+      "arName":  "اوسيسترشير",
       "isoCode": "WOR",
       "countryCode": "GB",
       "latitude": "52.25452250",
@@ -17452,6 +17868,7 @@
    },
    {
       "name": "Dundee",
+      "arName":  "دندي",
       "isoCode": "DND",
       "countryCode": "GB",
       "latitude": "56.46201800",
@@ -17459,6 +17876,7 @@
    },
    {
       "name": "London Borough of Croydon",
+      "arName":  "بلدة كرويدون",
       "isoCode": "CRY",
       "countryCode": "GB",
       "latitude": "51.38274460",
@@ -17466,6 +17884,7 @@
    },
    {
       "name": "North Down Borough Council",
+      "arName":  "شمال دون",
       "isoCode": "NDN",
       "countryCode": "GB",
       "latitude": "54.65362970",
@@ -17473,6 +17892,7 @@
    },
    {
       "name": "City of Plymouth",
+      "arName":  "مدينة بليموث",
       "isoCode": "PLY",
       "countryCode": "GB",
       "latitude": "42.37089410",
@@ -17480,6 +17900,7 @@
    },
    {
       "name": "Larne Borough Council",
+      "arName":  "مجلس لارن بورو",
       "isoCode": "LRN",
       "countryCode": "GB",
       "latitude": "54.85780030",
@@ -17487,6 +17908,7 @@
    },
    {
       "name": "Leicestershire",
+      "arName": "ليسترشاير",
       "isoCode": "LEC",
       "countryCode": "GB",
       "latitude": "52.77257100",
@@ -17494,6 +17916,7 @@
    },
    {
       "name": "Calderdale",
+      "arName": "كالديرديل",
       "isoCode": "CLD",
       "countryCode": "GB",
       "latitude": "53.72478450",
@@ -17501,6 +17924,7 @@
    },
    {
       "name": "Sefton",
+      "arName": "سيفتون",
       "isoCode": "SFT",
       "countryCode": "GB",
       "latitude": "53.50344490",
@@ -17508,6 +17932,7 @@
    },
    {
       "name": "Midlothian",
+      "arName": "ميدلوثيان",
       "isoCode": "MLN",
       "countryCode": "GB",
       "latitude": "32.47533500",
@@ -17515,6 +17940,7 @@
    },
    {
       "name": "London Borough of Barnet",
+      "arName": "بورو لندن بارنيت",
       "isoCode": "BNE",
       "countryCode": "GB",
       "latitude": "51.60496730",
@@ -17522,6 +17948,7 @@
    },
    {
       "name": "North Tyneside",
+      "arName": "شمال تينيسايد",
       "isoCode": "NTY",
       "countryCode": "GB",
       "latitude": "55.01823990",
@@ -17529,6 +17956,7 @@
    },
    {
       "name": "North Yorkshire",
+      "arName": "شمال يوركشاير",
       "isoCode": "NYK",
       "countryCode": "GB",
       "latitude": "53.99150280",
@@ -17536,6 +17964,7 @@
    },
    {
       "name": "Ards and North Down",
+      "arName": "أردس و الشمال دون",
       "isoCode": "AND",
       "countryCode": "GB",
       "latitude": "54.58996450",
@@ -17543,6 +17972,7 @@
    },
    {
       "name": "Newport",
+      "arName": "نيوبورت",
       "isoCode": "NWP",
       "countryCode": "GB",
       "latitude": "37.52782340",
@@ -17550,6 +17980,7 @@
    },
    {
       "name": "Castlereagh",
+      "arName": "كاستريجف",
       "isoCode": "CSR",
       "countryCode": "GB",
       "latitude": "54.57567900",
@@ -17557,6 +17988,7 @@
    },
    {
       "name": "Surrey",
+      "arName": "ساري",
       "isoCode": "SRY",
       "countryCode": "GB",
       "latitude": "51.31475930",
@@ -17564,6 +17996,7 @@
    },
    {
       "name": "Redcar and Cleveland",
+      "arName": "ريدكار وكليفلاند",
       "isoCode": "RCC",
       "countryCode": "GB",
       "latitude": "54.59713440",
@@ -17571,6 +18004,7 @@
    },
    {
       "name": "City and County of Cardiff",
+      "arName": "مقاطعة كارديف",
       "isoCode": "CRF",
       "countryCode": "GB",
       "latitude": "51.48158100",
@@ -17578,6 +18012,7 @@
    },
    {
       "name": "Bradford",
+      "arName": "برادفورد",
       "isoCode": "BRD",
       "countryCode": "GB",
       "latitude": "53.79598400",
@@ -17585,6 +18020,7 @@
    },
    {
       "name": "Blaenau Gwent County Borough",
+      "arName": "بلايناو غوينت مقاطعة بورو",
       "isoCode": "BGW",
       "countryCode": "GB",
       "latitude": "51.78757790",
@@ -17592,6 +18028,7 @@
    },
    {
       "name": "Fermanagh District Council",
+      "arName": "مقاطعة فيرماناغ",
       "isoCode": "FER",
       "countryCode": "GB",
       "latitude": "54.34479780",
@@ -17599,6 +18036,7 @@
    },
    {
       "name": "London Borough of Ealing",
+      "arName": "منطقة لندن من إيلينغ",
       "isoCode": "EAL",
       "countryCode": "GB",
       "latitude": "51.52503660",
@@ -17606,6 +18044,7 @@
    },
    {
       "name": "Antrim",
+      "arName": "أنتريم",
       "isoCode": "ANT",
       "countryCode": "GB",
       "latitude": "54.71953380",
@@ -17613,6 +18052,7 @@
    },
    {
       "name": "Newry, Mourne and Down",
+      "arName": "مورني ودوان",
       "isoCode": "NMD",
       "countryCode": "GB",
       "latitude": "54.24342870",
@@ -17620,6 +18060,7 @@
    },
    {
       "name": "North Ayrshire",
+      "arName": "شمال أيرشاير",
       "isoCode": "NAY",
       "countryCode": "GB",
       "latitude": "55.64167310",
@@ -19804,6 +20245,7 @@
    },
    {
       "name": "Riyadh",
+      "arName": "الرياض",
       "isoCode": "01",
       "countryCode": "SA",
       "latitude": "22.75543850",
@@ -19811,6 +20253,7 @@
    },
    {
       "name": "Makkah",
+      "arName": "مكة",
       "isoCode": "02",
       "countryCode": "SA",
       "latitude": "21.52355840",
@@ -19818,6 +20261,7 @@
    },
    {
       "name": "Al Madinah",
+      "arName": "المدينة المنورة",
       "isoCode": "03",
       "countryCode": "SA",
       "latitude": "24.84039770",
@@ -19825,6 +20269,7 @@
    },
    {
       "name": "Tabuk",
+      "arName": "تبوك",
       "isoCode": "07",
       "countryCode": "SA",
       "latitude": "28.24533350",
@@ -19832,6 +20277,7 @@
    },
    {
       "name": "'Asir",
+      "arName": "عسير",
       "isoCode": "14",
       "countryCode": "SA",
       "latitude": "19.09690620",
@@ -19839,6 +20285,7 @@
    },
    {
       "name": "Northern Borders",
+      "arName": "الحدود الشمالية",
       "isoCode": "08",
       "countryCode": "SA",
       "latitude": "30.07991620",
@@ -19846,6 +20293,7 @@
    },
    {
       "name": "Ha'il",
+      "arName": "حائل",
       "isoCode": "06",
       "countryCode": "SA",
       "latitude": "27.70761430",
@@ -19853,6 +20301,7 @@
    },
    {
       "name": "Eastern Province",
+      "arName": "المنطقة الشرقية",
       "isoCode": "04",
       "countryCode": "SA",
       "latitude": "24.04399320",
@@ -19860,6 +20309,7 @@
    },
    {
       "name": "Al Jawf",
+      "arName": "الجوف",
       "isoCode": "12",
       "countryCode": "SA",
       "latitude": "29.88735600",
@@ -19867,6 +20317,7 @@
    },
    {
       "name": "Jizan",
+      "arName": "جيزان",
       "isoCode": "09",
       "countryCode": "SA",
       "latitude": "17.17381760",
@@ -19874,6 +20325,7 @@
    },
    {
       "name": "Al Bahah",
+      "arName": "الباحة",
       "isoCode": "11",
       "countryCode": "SA",
       "latitude": "20.27227390",
@@ -19881,6 +20333,7 @@
    },
    {
       "name": "Najran",
+      "arName": "نجران",
       "isoCode": "10",
       "countryCode": "SA",
       "latitude": "18.35146640",
@@ -19888,6 +20341,7 @@
    },
    {
       "name": "Al-Qassim",
+      "arName": "القصيم",
       "isoCode": "05",
       "countryCode": "SA",
       "latitude": "26.20782600",
@@ -21204,6 +21658,7 @@
    },
    {
       "name": "Ad Dhahirah Governorate",
+      "arName": "الظاهرة",
       "isoCode": "ZA",
       "countryCode": "OM",
       "latitude": "23.21616740",
@@ -21211,6 +21666,7 @@
    },
    {
       "name": "Al Batinah North Governorate",
+      "arName": "شمال الباطنة",
       "isoCode": "BS",
       "countryCode": "OM",
       "latitude": "24.34198460",
@@ -21218,6 +21674,7 @@
    },
    {
       "name": "Al Batinah South Governorate",
+      "arName": "جنوب الباطنة",
       "isoCode": "BJ",
       "countryCode": "OM",
       "latitude": "23.43149030",
@@ -21225,6 +21682,7 @@
    },
    {
       "name": "Al Batinah Region",
+      "arName": "الباطنة",
       "isoCode": "BA",
       "countryCode": "OM",
       "latitude": "24.34198460",
@@ -21232,6 +21690,7 @@
    },
    {
       "name": "Ash Sharqiyah Region",
+      "arName": "الشرقية",
       "isoCode": "SH",
       "countryCode": "OM",
       "latitude": "22.71411960",
@@ -21239,6 +21698,7 @@
    },
    {
       "name": "Musandam Governorate",
+      "arName": "مسندم",
       "isoCode": "MU",
       "countryCode": "OM",
       "latitude": "26.19861440",
@@ -21246,6 +21706,7 @@
    },
    {
       "name": "Ash Sharqiyah North Governorate",
+      "arName": "شمال الشرقية",
       "isoCode": "SS",
       "countryCode": "OM",
       "latitude": "22.71411960",
@@ -21253,6 +21714,7 @@
    },
    {
       "name": "Ash Sharqiyah South Governorate",
+      "arName": "جنوب الشرقية",
       "isoCode": "SJ",
       "countryCode": "OM",
       "latitude": "22.01582490",
@@ -21260,6 +21722,7 @@
    },
    {
       "name": "Muscat Governorate",
+      "arName": "مسقط",
       "isoCode": "MA",
       "countryCode": "OM",
       "latitude": "23.58803070",
@@ -21267,6 +21730,7 @@
    },
    {
       "name": "Al Wusta Governorate",
+      "arName": "الوسطى",
       "isoCode": "WU",
       "countryCode": "OM",
       "latitude": "19.95710780",
@@ -21274,6 +21738,7 @@
    },
    {
       "name": "Dhofar Governorate",
+      "arName": "ظفار",
       "isoCode": "ZU",
       "countryCode": "OM",
       "latitude": "17.03221210",
@@ -21281,6 +21746,7 @@
    },
    {
       "name": "Ad Dakhiliyah Governorate",
+      "arName": "الداخلية",
       "isoCode": "DA",
       "countryCode": "OM",
       "latitude": "22.85887580",
@@ -21288,6 +21754,7 @@
    },
    {
       "name": "Al Buraimi Governorate",
+      "arName": "البريمي",
       "isoCode": "BU",
       "countryCode": "OM",
       "latitude": "24.16714130",
@@ -22114,6 +22581,7 @@
    },
    {
       "name": "Al Rayyan Municipality",
+      "arName": "الريان",
       "isoCode": "RA",
       "countryCode": "QA",
       "latitude": "25.25225510",
@@ -22121,6 +22589,7 @@
    },
    {
       "name": "Al-Shahaniya",
+      "arName": "الشيحانية",
       "isoCode": "SH",
       "countryCode": "QA",
       "latitude": "25.41063860",
@@ -22128,6 +22597,7 @@
    },
    {
       "name": "Al Wakrah",
+      "arName": "الوكرة",
       "isoCode": "WA",
       "countryCode": "QA",
       "latitude": "25.16593140",
@@ -22135,6 +22605,7 @@
    },
    {
       "name": "Madinat ash Shamal",
+      "arName": "الشمال",
       "isoCode": "MS",
       "countryCode": "QA",
       "latitude": "26.11827430",
@@ -22142,6 +22613,7 @@
    },
    {
       "name": "Doha",
+      "arName": "الدوحة",
       "isoCode": "DA",
       "countryCode": "QA",
       "latitude": "25.28544730",
@@ -22149,6 +22621,7 @@
    },
    {
       "name": "Al Daayen",
+      "arName": "الضعاين",
       "isoCode": "ZA",
       "countryCode": "QA",
       "latitude": "25.57845590",
@@ -22156,6 +22629,7 @@
    },
    {
       "name": "Al Khor",
+      "arName": "الخور",
       "isoCode": "KH",
       "countryCode": "QA",
       "latitude": "25.68040780",
@@ -22163,6 +22637,7 @@
    },
    {
       "name": "Umm Salal Municipality",
+      "arName": "أم صلال",
       "isoCode": "US",
       "countryCode": "QA",
       "latitude": "25.48752420",
@@ -22429,6 +22904,7 @@
    },
    {
       "name": "Kafr el-Sheikh",
+      "arName": "كفر الشيخ",
       "isoCode": "KFS",
       "countryCode": "EG",
       "latitude": "31.30854440",
@@ -22436,6 +22912,7 @@
    },
    {
       "name": "Cairo",
+      "arName": "القاهرة",
       "isoCode": "C",
       "countryCode": "EG",
       "latitude": "29.95375640",
@@ -22443,6 +22920,7 @@
    },
    {
       "name": "Damietta",
+      "arName": "دمياط",
       "isoCode": "DT",
       "countryCode": "EG",
       "latitude": "31.36257990",
@@ -22450,6 +22928,7 @@
    },
    {
       "name": "Aswan",
+      "arName": "أسوان",
       "isoCode": "ASN",
       "countryCode": "EG",
       "latitude": "23.69664980",
@@ -22457,6 +22936,7 @@
    },
    {
       "name": "Sohag",
+      "arName": "سوهاج",
       "isoCode": "SHG",
       "countryCode": "EG",
       "latitude": "26.69383400",
@@ -22464,6 +22944,7 @@
    },
    {
       "name": "North Sinai",
+      "arName": "شمال سيناء",
       "isoCode": "SIN",
       "countryCode": "EG",
       "latitude": "30.28236500",
@@ -22471,6 +22952,7 @@
    },
    {
       "name": "Monufia",
+      "arName": "المنوفية",
       "isoCode": "MNF",
       "countryCode": "EG",
       "latitude": "30.59724550",
@@ -22478,6 +22960,7 @@
    },
    {
       "name": "Port Said",
+      "arName": "بورسعيد",
       "isoCode": "PTS",
       "countryCode": "EG",
       "latitude": "31.07586060",
@@ -22485,6 +22968,7 @@
    },
    {
       "name": "Beni Suef",
+      "arName": "بني سويف",
       "isoCode": "BNS",
       "countryCode": "EG",
       "latitude": "28.89388370",
@@ -22492,6 +22976,7 @@
    },
    {
       "name": "Matrouh",
+      "arName": "مطروح",
       "isoCode": "MT",
       "countryCode": "EG",
       "latitude": "29.56963500",
@@ -22499,6 +22984,7 @@
    },
    {
       "name": "Qalyubia",
+      "arName": "القليوبية",
       "isoCode": "KB",
       "countryCode": "EG",
       "latitude": "30.32923680",
@@ -22506,6 +22992,7 @@
    },
    {
       "name": "Suez",
+      "arName": "السويس",
       "isoCode": "SUZ",
       "countryCode": "EG",
       "latitude": "29.36822550",
@@ -22513,6 +23000,7 @@
    },
    {
       "name": "Gharbia",
+      "arName": "الغربية",
       "isoCode": "GH",
       "countryCode": "EG",
       "latitude": "30.87535560",
@@ -22520,6 +23008,7 @@
    },
    {
       "name": "Alexandria",
+      "arName": "الإسكندرية",
       "isoCode": "ALX",
       "countryCode": "EG",
       "latitude": "30.87605680",
@@ -22527,6 +23016,7 @@
    },
    {
       "name": "Asyut",
+      "arName": "أسيوط",
       "isoCode": "AST",
       "countryCode": "EG",
       "latitude": "27.21338310",
@@ -22534,6 +23024,7 @@
    },
    {
       "name": "South Sinai",
+      "arName": "جنوب سيناء",
       "isoCode": "JS",
       "countryCode": "EG",
       "latitude": "29.31018280",
@@ -22541,6 +23032,7 @@
    },
    {
       "name": "Faiyum",
+      "arName": "الفيوم",
       "isoCode": "FYM",
       "countryCode": "EG",
       "latitude": "29.30840210",
@@ -22548,6 +23040,7 @@
    },
    {
       "name": "Giza",
+      "arName": "الجيزة",
       "isoCode": "GZ",
       "countryCode": "EG",
       "latitude": "28.76662160",
@@ -22555,6 +23048,7 @@
    },
    {
       "name": "Red Sea",
+      "arName": "البحر الاحمر",
       "isoCode": "BA",
       "countryCode": "EG",
       "latitude": "24.68263160",
@@ -22562,6 +23056,7 @@
    },
    {
       "name": "Beheira",
+      "arName": "البحيرة",
       "isoCode": "BH",
       "countryCode": "EG",
       "latitude": "30.84809860",
@@ -22569,6 +23064,7 @@
    },
    {
       "name": "Luxor",
+      "arName": "الأقصر",
       "isoCode": "LX",
       "countryCode": "EG",
       "latitude": "25.39444440",
@@ -22576,6 +23072,7 @@
    },
    {
       "name": "Minya",
+      "arName": "المنيا",
       "isoCode": "MN",
       "countryCode": "EG",
       "latitude": "28.28472900",
@@ -22583,6 +23080,7 @@
    },
    {
       "name": "Ismailia",
+      "arName": "الإسماعيلية",
       "isoCode": "IS",
       "countryCode": "EG",
       "latitude": "30.58309340",
@@ -22590,6 +23088,7 @@
    },
    {
       "name": "Dakahlia",
+      "arName": "الدقهلية",
       "isoCode": "DK",
       "countryCode": "EG",
       "latitude": "31.16560440",
@@ -22597,6 +23096,7 @@
    },
    {
       "name": "New Valley",
+      "arName": "الوادي الجديد",
       "isoCode": "WAD",
       "countryCode": "EG",
       "latitude": "24.54556380",
@@ -22604,6 +23104,7 @@
    },
    {
       "name": "Qena",
+      "arName": "قنا",
       "isoCode": "KN",
       "countryCode": "EG",
       "latitude": "26.23460330",
@@ -22611,6 +23112,7 @@
    },
    {
       "name": "Sharqia",
+      "arName": "الشرقية",
       "isoCode": "SHR",
       "countryCode": "EG",
       "latitude": "30.67305450",
@@ -22737,6 +23239,7 @@
    },
    {
       "name": "Guelmim",
+      "arName": "جيلميم",
       "isoCode": "GUE",
       "countryCode": "MA",
       "latitude": "28.98836590",
@@ -22744,6 +23247,7 @@
    },
    {
       "name": "Aousserd (EH)",
+      "arName": "Aousserd",
       "isoCode": "AOU",
       "countryCode": "MA",
       "latitude": "22.55215380",
@@ -23787,6 +24291,7 @@
    },
    {
       "name": "Sharjah Emirate",
+      "arName": "الشارقة",
       "isoCode": "SH",
       "countryCode": "AE",
       "latitude": "25.07539740",
@@ -23794,6 +24299,7 @@
    },
    {
       "name": "Dubai",
+      "arName": "دبي",
       "isoCode": "DU",
       "countryCode": "AE",
       "latitude": "25.20484930",
@@ -23801,6 +24307,7 @@
    },
    {
       "name": "Umm al-Quwain",
+      "arName": "أم القوين",
       "isoCode": "UQ",
       "countryCode": "AE",
       "latitude": "25.54263240",
@@ -23808,6 +24315,7 @@
    },
    {
       "name": "Fujairah",
+      "arName": "الفجيرة",
       "isoCode": "FU",
       "countryCode": "AE",
       "latitude": "25.12880990",
@@ -23815,6 +24323,7 @@
    },
    {
       "name": "Ras al-Khaimah",
+      "arName": "راس الخيمة",
       "isoCode": "RK",
       "countryCode": "AE",
       "latitude": "25.67413430",
@@ -23822,6 +24331,7 @@
    },
    {
       "name": "Ajman Emirate",
+      "arName": "عجمان",
       "isoCode": "AJ",
       "countryCode": "AE",
       "latitude": "25.40521650",
@@ -23829,6 +24339,7 @@
    },
    {
       "name": "Abu Dhabi Emirate",
+      "arName": "أبوظبي",
       "isoCode": "AZ",
       "countryCode": "AE",
       "latitude": "24.45388400",
@@ -27413,6 +27924,7 @@
    },
    {
       "name": "Victoria",
+      "arName": "فيكتوريا",
       "isoCode": "VIC",
       "countryCode": "AU",
       "latitude": "-36.48564230",
@@ -27420,6 +27932,7 @@
    },
    {
       "name": "South Australia",
+      "arName": "جنوب استراليا",
       "isoCode": "SA",
       "countryCode": "AU",
       "latitude": "-30.00023150",
@@ -27427,6 +27940,7 @@
    },
    {
       "name": "Queensland",
+      "arName": "كوينزلاند",
       "isoCode": "QLD",
       "countryCode": "AU",
       "latitude": "-20.91757380",
@@ -27434,6 +27948,7 @@
    },
    {
       "name": "Western Australia",
+      "arName": "غرب استراليا",
       "isoCode": "WA",
       "countryCode": "AU",
       "latitude": "-27.67281680",
@@ -27441,6 +27956,7 @@
    },
    {
       "name": "Australian Capital Territory",
+      "arName": "العاصمة الأسترالية",
       "isoCode": "ACT",
       "countryCode": "AU",
       "latitude": "-35.47346790",
@@ -27448,6 +27964,7 @@
    },
    {
       "name": "Tasmania",
+      "arName": "تسمانيا",
       "isoCode": "TAS",
       "countryCode": "AU",
       "latitude": "-41.45451960",
@@ -27455,6 +27972,7 @@
    },
    {
       "name": "New South Wales",
+      "arName": "جنوب ويلز",
       "isoCode": "NSW",
       "countryCode": "AU",
       "latitude": "-31.25321830",
@@ -27462,6 +27980,7 @@
    },
    {
       "name": "Northern Territory",
+      "arName": "الإقليم الشمالي",
       "isoCode": "NT",
       "countryCode": "AU",
       "latitude": "-19.49141080",
@@ -28155,6 +28674,7 @@
    },
    {
       "name": "Meghalaya",
+      "arName": "ميغالايا",
       "isoCode": "ML",
       "countryCode": "IN",
       "latitude": "25.46703080",
@@ -28162,6 +28682,7 @@
    },
    {
       "name": "Haryana",
+      "arName": "هاريانا",
       "isoCode": "HR",
       "countryCode": "IN",
       "latitude": "29.05877570",
@@ -28169,6 +28690,7 @@
    },
    {
       "name": "Maharashtra",
+      "arName": "ماهاراشترا",
       "isoCode": "MH",
       "countryCode": "IN",
       "latitude": "19.75147980",
@@ -28176,6 +28698,7 @@
    },
    {
       "name": "Goa",
+      "arName": "غوا",
       "isoCode": "GA",
       "countryCode": "IN",
       "latitude": "15.29932650",
@@ -28183,6 +28706,7 @@
    },
    {
       "name": "Manipur",
+      "arName": "مانيبور",
       "isoCode": "MN",
       "countryCode": "IN",
       "latitude": "24.66371730",
@@ -28190,6 +28714,7 @@
    },
    {
       "name": "Puducherry",
+      "arName": "بدشوري",
       "isoCode": "PY",
       "countryCode": "IN",
       "latitude": "11.94159150",
@@ -28197,6 +28722,7 @@
    },
    {
       "name": "Telangana",
+      "arName": "تيلانجانا",
       "isoCode": "TG",
       "countryCode": "IN",
       "latitude": "18.11243720",
@@ -28204,6 +28730,7 @@
    },
    {
       "name": "Odisha",
+      "arName": "أوديشا",
       "isoCode": "OR",
       "countryCode": "IN",
       "latitude": "20.95166580",
@@ -28211,6 +28738,7 @@
    },
    {
       "name": "Rajasthan",
+      "arName": "راجستان",
       "isoCode": "RJ",
       "countryCode": "IN",
       "latitude": "27.02380360",
@@ -28218,6 +28746,7 @@
    },
    {
       "name": "Punjab",
+      "arName":  "البنجاب",
       "isoCode": "PB",
       "countryCode": "IN",
       "latitude": "31.14713050",
@@ -28225,6 +28754,7 @@
    },
    {
       "name": "Uttarakhand",
+      "arName":  "أوتاراخاند",
       "isoCode": "UT",
       "countryCode": "IN",
       "latitude": "30.06675300",
@@ -28232,6 +28762,7 @@
    },
    {
       "name": "Andhra Pradesh",
+      "arName":  "ولاية اندرا براديش",
       "isoCode": "AP",
       "countryCode": "IN",
       "latitude": "15.91289980",
@@ -28239,6 +28770,7 @@
    },
    {
       "name": "Nagaland",
+      "arName":  "ناجالاند",
       "isoCode": "NL",
       "countryCode": "IN",
       "latitude": "26.15843540",
@@ -28246,6 +28778,7 @@
    },
    {
       "name": "Lakshadweep",
+      "arName":  "ليكشدوب",
       "isoCode": "LD",
       "countryCode": "IN",
       "latitude": "10.32802650",
@@ -28253,6 +28786,7 @@
    },
    {
       "name": "Himachal Pradesh",
+      "arName": "هيماشال براديش",
       "isoCode": "HP",
       "countryCode": "IN",
       "latitude": "31.10482940",
@@ -28260,6 +28794,7 @@
    },
    {
       "name": "Delhi",
+      "arName": "دلهي",
       "isoCode": "DL",
       "countryCode": "IN",
       "latitude": "28.70405920",
@@ -28267,6 +28802,7 @@
    },
    {
       "name": "Uttar Pradesh",
+      "arName": "أوتار براديش",
       "isoCode": "UP",
       "countryCode": "IN",
       "latitude": "26.84670880",
@@ -28274,6 +28810,7 @@
    },
    {
       "name": "Andaman and Nicobar Islands",
+      "arName": "جزر أندامان ونيكوبار",
       "isoCode": "AN",
       "countryCode": "IN",
       "latitude": "11.74008670",
@@ -28281,6 +28818,7 @@
    },
    {
       "name": "Arunachal Pradesh",
+      "arName": "اروناتشال براديش",
       "isoCode": "AR",
       "countryCode": "IN",
       "latitude": "28.21799940",
@@ -28288,6 +28826,7 @@
    },
    {
       "name": "Jharkhand",
+      "arName": "جارخاند",
       "isoCode": "JH",
       "countryCode": "IN",
       "latitude": "23.61018080",
@@ -28295,6 +28834,7 @@
    },
    {
       "name": "Karnataka",
+      "arName": "كارناتاكا",
       "isoCode": "KA",
       "countryCode": "IN",
       "latitude": "15.31727750",
@@ -28302,6 +28842,7 @@
    },
    {
       "name": "Assam",
+      "arName": "آسام",
       "isoCode": "AS",
       "countryCode": "IN",
       "latitude": "26.20060430",
@@ -28309,6 +28850,7 @@
    },
    {
       "name": "Kerala",
+      "arName": "الكرز",
       "isoCode": "KL",
       "countryCode": "IN",
       "latitude": "10.85051590",
@@ -28316,6 +28858,7 @@
    },
    {
       "name": "Jammu and Kashmir",
+      "arName": "جامو وكشمير",
       "isoCode": "JK",
       "countryCode": "IN",
       "latitude": "33.27783900",
@@ -28323,6 +28866,7 @@
    },
    {
       "name": "Gujarat",
+      "arName": "غوجارات",
       "isoCode": "GJ",
       "countryCode": "IN",
       "latitude": "22.25865200",
@@ -28330,6 +28874,7 @@
    },
    {
       "name": "Chandigarh",
+      "arName": "شانديغار",
       "isoCode": "CH",
       "countryCode": "IN",
       "latitude": "30.73331480",
@@ -28337,6 +28882,7 @@
    },
    {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
+      "arName": "دادرا وناجار",
       "isoCode": "DH",
       "countryCode": "IN",
       "latitude": "20.39737360",
@@ -28344,6 +28890,7 @@
    },
    {
       "name": "Sikkim",
+      "arName": "سيكيم",
       "isoCode": "SK",
       "countryCode": "IN",
       "latitude": "27.53297180",
@@ -28351,6 +28898,7 @@
    },
    {
       "name": "Tamil Nadu",
+      "arName": "تاميل نادو",
       "isoCode": "TN",
       "countryCode": "IN",
       "latitude": "11.12712250",
@@ -28358,6 +28906,7 @@
    },
    {
       "name": "Mizoram",
+      "arName": "ميزورام",
       "isoCode": "MZ",
       "countryCode": "IN",
       "latitude": "23.16454300",
@@ -28365,6 +28914,7 @@
    },
    {
       "name": "Bihar",
+      "arName": "بيهار",
       "isoCode": "BR",
       "countryCode": "IN",
       "latitude": "25.09607420",
@@ -28372,6 +28922,7 @@
    },
    {
       "name": "Tripura",
+      "arName": "تريبورا",
       "isoCode": "TR",
       "countryCode": "IN",
       "latitude": "23.94084820",
@@ -28379,6 +28930,7 @@
    },
    {
       "name": "Madhya Pradesh",
+      "arName": "ماديا براديش",
       "isoCode": "MP",
       "countryCode": "IN",
       "latitude": "22.97342290",
@@ -28386,6 +28938,7 @@
    },
    {
       "name": "Chhattisgarh",
+      "arName": "تشها تيسجاره",
       "isoCode": "CT",
       "countryCode": "IN",
       "latitude": "21.27865670",
@@ -28393,6 +28946,7 @@
    },
    {
       "name": "Ladakh",
+      "arName": "لاداخ",
       "isoCode": "LA",
       "countryCode": "IN",
       "latitude": "34.22684750",
@@ -28400,6 +28954,7 @@
    },
    {
       "name": "West Bengal",
+      "arName": "البنغال الغربية",
       "isoCode": "WB",
       "countryCode": "IN",
       "latitude": "22.98675690",
@@ -28407,6 +28962,7 @@
    },
    {
       "name": "Choluteca Department",
+      "arName": "Choluteca Department",
       "isoCode": "CH",
       "countryCode": "HN",
       "latitude": "13.25043250",
